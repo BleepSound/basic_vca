@@ -3239,7 +3239,7 @@
 			(uuid "373926db-0e72-494d-895e-d62033dda1c7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 3.81 360)
+			(at 0 3.81 0)
 			(layer "F.Fab")
 			(uuid "1f5622fb-981a-4b3e-a7c1-810a7aa632f9")
 			(effects
@@ -26759,7 +26759,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R77"
-			(at 3.81 0 360)
+			(at 3.81 0 0)
 			(layer "B.SilkS")
 			(uuid "baac9cec-3241-4d81-a4da-cb826fd91636")
 			(effects
@@ -26771,7 +26771,7 @@
 			)
 		)
 		(property "Value" "47k"
-			(at 3.81 -2.37 360)
+			(at 3.81 -2.37 0)
 			(layer "B.Fab")
 			(uuid "f12d7824-bf8f-4807-9af8-4275cb8b1f42")
 			(effects
@@ -26990,7 +26990,7 @@
 			(uuid "ea434929-ca2c-4371-964e-e024e75cb210")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 0 360)
+			(at 3.81 0 0)
 			(layer "B.Fab")
 			(uuid "d8901b0c-efac-491d-a941-ae08e569638e")
 			(effects
@@ -27321,7 +27321,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R27"
-			(at 3.81 0 360)
+			(at 3.81 0 0)
 			(layer "B.SilkS")
 			(uuid "e9a35d2c-8a4c-4a0e-a682-bd8451b115ac")
 			(effects
@@ -27333,7 +27333,7 @@
 			)
 		)
 		(property "Value" "150R"
-			(at 3.81 -2.37 360)
+			(at 3.81 -2.37 0)
 			(layer "B.Fab")
 			(uuid "c0f522cb-6457-4e0b-a1ad-d98c09f7baec")
 			(effects
@@ -27552,7 +27552,7 @@
 			(uuid "fa698c76-4f18-485e-ba33-7209c99e23a3")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 0 360)
+			(at 3.81 0 0)
 			(layer "B.Fab")
 			(uuid "ad601d91-17c4-4c69-855e-1437181c8338")
 			(effects
@@ -27602,7 +27602,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R32"
-			(at 3.81 0 360)
+			(at 3.81 0 0)
 			(layer "B.SilkS")
 			(uuid "5b1e9825-3c85-417e-ba26-326202d71128")
 			(effects
@@ -27614,7 +27614,7 @@
 			)
 		)
 		(property "Value" "2M"
-			(at 3.81 -2.37 360)
+			(at 3.81 -2.37 0)
 			(layer "B.Fab")
 			(uuid "0c26e1e1-705c-4be1-b2e4-dead3c1a7daf")
 			(effects
@@ -27833,7 +27833,7 @@
 			(uuid "c02c673e-5570-45ac-bf2a-1590822dbcc6")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 0 360)
+			(at 3.81 0 0)
 			(layer "B.Fab")
 			(uuid "adba7b19-b4e9-4beb-b35b-0efc3e8bbd26")
 			(effects
@@ -27883,7 +27883,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R37"
-			(at 3.81 0 360)
+			(at 3.81 0 0)
 			(layer "B.SilkS")
 			(uuid "9e02d797-4935-4048-ac1f-37f1ddcc4920")
 			(effects
@@ -27895,7 +27895,7 @@
 			)
 		)
 		(property "Value" "47k"
-			(at 3.81 -2.37 360)
+			(at 3.81 -2.37 0)
 			(layer "B.Fab")
 			(uuid "a1d8c50b-d646-4c3f-acbd-f862484f3600")
 			(effects
@@ -28114,7 +28114,7 @@
 			(uuid "a54242a7-0f37-40eb-a73a-c4beb16be8c5")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 0 360)
+			(at 3.81 0 0)
 			(layer "B.Fab")
 			(uuid "d9d1fc2a-8a8d-44d5-bc21-d74ee9760c1f")
 			(effects
@@ -32023,7 +32023,7 @@
 			(uuid "340834c9-aead-453d-8228-23080927d761")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -3.81 360)
+			(at 0 -3.81 0)
 			(layer "B.Fab")
 			(uuid "10933e50-04ae-42b6-b1d9-49de953e6edc")
 			(effects
@@ -32940,7 +32940,7 @@
 		(descr "Potentiometer, horizontal, Bourns 3386C, https://www.bourns.com/pdfs/3386.pdf")
 		(tags "Potentiometer horizontal Bourns 3386C")
 		(property "Reference" "Bias_adjust4"
-			(at -3.3 -2.58 360)
+			(at -3.3 -2.58 0)
 			(layer "B.SilkS")
 			(uuid "67cc60df-73fa-4b05-baa4-2c3b7f30b7db")
 			(effects
@@ -34958,7 +34958,7 @@
 		(descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
 		(tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
 		(property "Reference" "Q6"
-			(at 3.77 2.8 360)
+			(at 3.77 2.8 0)
 			(layer "B.SilkS")
 			(uuid "fc5163d5-e11e-4d90-afa3-9e970ccdd552")
 			(effects
@@ -34970,7 +34970,7 @@
 			)
 		)
 		(property "Value" "2N3906"
-			(at 1.27 -2.79 360)
+			(at 1.27 -2.79 0)
 			(layer "B.Fab")
 			(uuid "538b81f1-922c-4839-b8da-b76bfa17e400")
 			(effects
@@ -34982,7 +34982,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "1fbcbc49-db2b-465c-9302-99c71fa54b24")
@@ -34995,7 +34995,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "0ff5d467-9b89-4af6-b1ba-3350cfe08d67")
@@ -35008,7 +35008,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "abac1487-d3b6-49b3-b02f-63b71bcab1d2")
@@ -35130,7 +35130,7 @@
 			(uuid "2d43dd3f-dedb-4ee9-b0e9-ac1929738bf4")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 360)
+			(at 1.27 0 0)
 			(layer "B.Fab")
 			(uuid "ab124f50-efc1-464c-8e3e-fb44eedff89b")
 			(effects
@@ -41977,7 +41977,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R53"
-			(at 3.81 0 360)
+			(at 3.81 0 0)
 			(layer "B.SilkS")
 			(uuid "c1bd5d01-4ffc-4e4d-a3bf-07a1716fa068")
 			(effects
@@ -41989,7 +41989,7 @@
 			)
 		)
 		(property "Value" "470k"
-			(at 3.81 -2.37 360)
+			(at 3.81 -2.37 0)
 			(layer "B.Fab")
 			(uuid "fb5edb91-c82c-4d5e-a2fe-c2613484ff36")
 			(effects
@@ -42208,7 +42208,7 @@
 			(uuid "c7ef0bc0-4520-43c7-8339-94ac7f90cc65")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 0 360)
+			(at 3.81 0 0)
 			(layer "B.Fab")
 			(uuid "467ab7a3-52fc-4161-bede-c7f89c6a9e7a")
 			(effects
@@ -42258,7 +42258,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R59"
-			(at 3.81 0 360)
+			(at 3.81 0 0)
 			(layer "B.SilkS")
 			(uuid "d3ddb983-46e3-4b08-b23b-9fe8c434d1f4")
 			(effects
@@ -42270,7 +42270,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 3.81 -2.37 360)
+			(at 3.81 -2.37 0)
 			(layer "B.Fab")
 			(uuid "bda5017f-0234-48de-83a4-df082b705b55")
 			(effects
@@ -42489,7 +42489,7 @@
 			(uuid "324dfb82-fa64-46f6-a0bf-96086bdc9aef")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 0 360)
+			(at 3.81 0 0)
 			(layer "B.Fab")
 			(uuid "315dd1d7-d001-4f65-a917-096341251389")
 			(effects
@@ -44131,7 +44131,7 @@
 		(descr "SOIC, 16 Pin (JEDEC MS-012AC, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
 		(property "Reference" "U3"
-			(at 0 5.9 360)
+			(at 0 5.9 0)
 			(layer "B.SilkS")
 			(uuid "e16629a6-f023-4f57-ac28-9a8ae49b74ea")
 			(effects
@@ -44143,7 +44143,7 @@
 			)
 		)
 		(property "Value" "LM13700"
-			(at 0 -5.9 360)
+			(at 0 -5.9 0)
 			(layer "B.Fab")
 			(uuid "e27a0761-7d6e-4863-8be4-fe9e30446fdd")
 			(effects
@@ -44155,7 +44155,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "2c47dabb-f8eb-43b6-89b8-8a3ef4d664b8")
@@ -44168,7 +44168,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm13700.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "495f4952-10d4-4250-b527-2db0e81697b6")
@@ -44181,7 +44181,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b6c3df79-c9db-4f88-9200-20a3b4bc7507")
@@ -44194,7 +44194,7 @@
 			)
 		)
 		(property "manf" "Texas Instrument"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "f2175fa6-2b06-48e1-b0e5-f62fbaafd786")
@@ -44207,7 +44207,7 @@
 			)
 		)
 		(property "manf#" "LM13700MX/NOPB"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "481ed36f-4d1a-43f1-aac4-8095d92a00d7")
@@ -44355,7 +44355,7 @@
 			(uuid "98d6bf00-4f27-4286-bf5c-02a42795da5f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "947654d2-cdba-4734-aa0b-9e172fe445d3")
 			(effects
@@ -45062,7 +45062,7 @@
 		(descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
 		(tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
 		(property "Reference" "Q8"
-			(at 3.67 2.7 360)
+			(at 3.67 2.7 0)
 			(layer "B.SilkS")
 			(uuid "133c3086-7608-4e08-aaf2-c931a9938739")
 			(effects
@@ -45074,7 +45074,7 @@
 			)
 		)
 		(property "Value" "2N3906"
-			(at 1.27 -2.79 360)
+			(at 1.27 -2.79 0)
 			(layer "B.Fab")
 			(uuid "a92230d9-510e-4ed9-b0b6-5cb15986ef3d")
 			(effects
@@ -45086,7 +45086,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d692b254-b266-4f2b-adf4-100996e7af47")
@@ -45099,7 +45099,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "8306f636-35c2-4dd8-a9cb-28728ec280c9")
@@ -45112,7 +45112,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "2bff96b1-a407-40d8-ab69-37d574eccc08")
@@ -45234,7 +45234,7 @@
 			(uuid "c9be9387-aa70-4608-8fc7-d701da9c8be5")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 360)
+			(at 1.27 0 0)
 			(layer "B.Fab")
 			(uuid "f7f3e5f8-7c14-4224-adb8-c1cbdca686f1")
 			(effects
@@ -54877,7 +54877,7 @@
 	)
 	(gr_poly
 		(pts
-			(xy 190.2 43) (xy 188.7 45) (xy 188.7 41)
+			(xy 189.8 43) (xy 188.3 45) (xy 188.3 41)
 		)
 		(stroke
 			(width 0.15)
@@ -58383,7 +58383,7 @@
 	)
 	(gr_poly
 		(pts
-			(xy 215.4 43) (xy 213.9 45) (xy 213.9 41)
+			(xy 215.8 43) (xy 214.3 45) (xy 214.3 41)
 		)
 		(stroke
 			(width 0.15)

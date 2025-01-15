@@ -6269,7 +6269,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
 			(at 93.98 133.35 0)
 			(effects
 				(font
@@ -10207,7 +10207,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "773dd4eb-ef24-4a58-8f74-5b91ad953f2f")
 		(property "Reference" "Bias_adjust1"
 			(at 113.03 170.18 0)
@@ -10227,7 +10227,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
 			(at 115.57 170.18 0)
 			(effects
 				(font
@@ -13572,7 +13572,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "fa1918bf-72a1-43af-8e13-dde23ad46fc5")
 		(property "Reference" "J4"
 			(at 185.42 77.47 0)

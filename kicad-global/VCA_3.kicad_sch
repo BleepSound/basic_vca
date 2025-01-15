@@ -5019,7 +5019,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "3664d69b-8b93-4b8d-8a2c-52aed82531e9")
 		(property "Reference" "Bias_adjust3"
 			(at 114.3 172.72 0)
@@ -5039,7 +5039,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
 			(at 116.84 172.72 0)
 			(effects
 				(font
@@ -7110,7 +7110,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
 			(at 95.25 135.89 0)
 			(effects
 				(font

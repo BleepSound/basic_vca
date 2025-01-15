@@ -1,33 +1,28 @@
-# CD40106 VCO
+# Quad VCA
 
-Saw-core VCO based on Moritz Klein version, with additionnal wave shaping capabilities.
+Quad VCA module, original desigh taken from Ray Wilson from [MFOS](https://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&VPW=1697&VPH=669)
 
-Saw, Square, Sine and triangle wave output.
+Possibility to have log and linear response for each VCA via a toggle switch. 
 
-V/Oct, PWM and FM CV inputs. 
+CV inputs are normalled for channel 1-2 and channel 3-4, to have a stereo VCA with one CV signal. 
 
-Sync input. 
-
-Octave switch and pot for fine control for each octave
-
-Extension connector to connect to the SubPhatty extender (Sub octave extender, soon to be released)
+All outputs are normalled to one another, to use the VCA as an active audio mixer. 
 
 ## Schematics
 
-![CD40106 VCO schematic](documentation/image/CD40106_VCO--Schematic.svg)
-![CD40106 VCO schematic-wave converter](documentation/image/CD40106_VCO-Wave_Converter.svg)
-![CD40106 VCO schematic-octave switch](documentation/image/CD40106_VCO-Octave_switch.svg)
-![CD40106 VCO schematic-Power](documentation/image/CD40106_VCO-Power.svg)
+![Quad VCA schematic](documentation/image/Basic_VCA--Schematic.svg)
+
+All 4 channels of the VCA are a repeat of this schematic. 
 
 ## BoM
 
-[See bom](documentation/bom/CD40106_VCO_V1.0--iBoM.html)
+[See bom](documentation/bom/Basic_VCA_V1.0--iBoM.html)
 
 You have a bom in excel format available in the bom folder. 
 
 ## Build Informations
 
-Uses an SMD LM13700 because the DIP ones are not produced anymore.
+Uses SMD LM13700 because the DIP ones are not produced anymore (and expensive).
 
 Regular build, I use ceramic capacitors but you can use film/polyester.
 
@@ -48,9 +43,9 @@ For the next parts, always place them without soldering them on:
 
 Once placed, put the front panel in place, then fasten all components to it. Once this is done, you can solder all the remaining components.
 
-![3D CD40106 VCO(front)](documentation/image/CD40106_VCO-3D_top.png)
+![3D CD40106 VCO(front)](documentation/image/Basic_VCA-3D_top.png)
 
-![3D CD40106 VCO(back)](documentation/image/CD40106_VCO-3D_bottom.png)
+![3D CD40106 VCO(back)](documentation/image/Basic_VCA-3D_bottom.png)
 
-![3D CD40106 VCO(iso)](documentation/image/CD40106_VCO-3D_top30deg.png)
+![3D CD40106 VCO(iso)](documentation/image/Basic_VCA-3D_top30deg.png)
 

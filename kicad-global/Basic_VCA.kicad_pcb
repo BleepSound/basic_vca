@@ -581,7 +581,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -590,6 +590,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d28e8e48-b0ae-4134-ae12-dade981f07a2")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -855,7 +868,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.54mm pitch pin socket vertical 1x8pos"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -863,18 +876,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Comments" "Regular pin socket"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "47512a5f-5098-4d3e-9feb-4dcfe1406e48")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1310,7 +1311,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.54mm pitch pin socket vertical 1x8pos"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1318,18 +1319,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Comments" "Regular pin socket"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0561b375-d913-4e12-8814-4d7046f2fa40")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1653,7 +1642,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Thonkiconn jack"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1665,11 +1654,12 @@
 				)
 			)
 		)
-		(property "Comments" "Thonkiconn jack"
+		(property "Links" "https://www.thonk.co.uk/shop/thonkiconn/"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "87101451-e956-4070-84f9-708019de9d65")
+			(uuid "0002a5e2-b5ef-4fa6-b212-5de4e24400ea")
 			(effects
 				(font
 					(size 1 1)
@@ -2052,7 +2042,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Thonkiconn jack"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2064,11 +2054,12 @@
 				)
 			)
 		)
-		(property "Comments" "Thonkiconn jack"
+		(property "Links" "https://www.thonk.co.uk/shop/thonkiconn/"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b20ac8e5-2746-4339-8b91-de8e267de5f0")
+			(uuid "3d5c2fce-32c8-4b48-bd3d-97f5fa8dfd63")
 			(effects
 				(font
 					(size 1 1)
@@ -2452,7 +2443,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2461,6 +2452,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "22bfec53-664f-4bae-9cfc-2f96a2c22a7a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2726,7 +2730,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Alpha/bourns vertical potentiometer"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2738,11 +2742,12 @@
 				)
 			)
 		)
-		(property "Comments" "Alpha/bourns vertical potentiometer"
-			(at 190.05 -50.95 0)
+		(property "Links" "https://www.thonk.co.uk/shop/alpha-9mm-pots/"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e4fd95b8-b9f6-4ab7-b593-eed7e7e9906e")
+			(uuid "821f0762-a018-40b0-a17a-38df0e15ee64")
 			(effects
 				(font
 					(size 1 1)
@@ -3059,7 +3064,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.54mm pitch pin socket vertical 1x4pos"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3067,18 +3072,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Comments" "Regular pin socket"
-			(at 0 0 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d0c26d1a-6fcf-4e97-9137-475b1c40c209")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3358,7 +3351,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Alpha/bourns vertical potentiometer"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3370,11 +3363,12 @@
 				)
 			)
 		)
-		(property "Comments" "Alpha/bourns vertical potentiometer"
-			(at 241.05 -41.95 0)
+		(property "Links" "https://www.thonk.co.uk/shop/alpha-9mm-pots/"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ec684cab-a9e4-411a-be64-d4cb137ec183")
+			(uuid "eff4a021-ff5d-4cc2-85d9-00dd734337ab")
 			(effects
 				(font
 					(size 1 1)
@@ -3691,7 +3685,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Thonkiconn jack"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3703,11 +3697,12 @@
 				)
 			)
 		)
-		(property "Comments" "Thonkiconn jack"
+		(property "Links" "https://www.thonk.co.uk/shop/thonkiconn/"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ed2021f5-f7cd-420c-8c74-c3f3d7b5e167")
+			(uuid "f20dd189-1bf4-4d59-b67b-1856ea3dc75b")
 			(effects
 				(font
 					(size 1 1)
@@ -4091,7 +4086,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4100,6 +4095,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "92467b0e-de83-4a75-b04d-a0df8e144ee4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4365,7 +4373,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Thonkiconn jack"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4377,11 +4385,12 @@
 				)
 			)
 		)
-		(property "Comments" "Thonkiconn jack"
+		(property "Links" "https://www.thonk.co.uk/shop/thonkiconn/"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0e3bd765-6b43-43e2-ad91-fe74cc0a150d")
+			(uuid "ce71dd85-3031-45b0-bd7d-8ca6855cc854")
 			(effects
 				(font
 					(size 1 1)
@@ -4765,7 +4774,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SPDT ON-ON toggle switch"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4777,11 +4786,12 @@
 				)
 			)
 		)
-		(property "Comments" "SPDT On-On Switch"
-			(at 211.5 -87.5 0)
+		(property "Links" "https://www.thonk.co.uk/shop/mini-toggle-switches/"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3f0a78ec-f706-4e33-8987-87484504c3c6")
+			(uuid "ca886d3c-5a35-4367-b51b-a38f7eaef50d")
 			(effects
 				(font
 					(size 1 1)
@@ -5162,7 +5172,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Alpha/bourns vertical potentiometer"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -5174,11 +5184,12 @@
 				)
 			)
 		)
-		(property "Comments" "Alpha/bourns vertical potentiometer"
-			(at 215.55 -46.45 0)
+		(property "Links" "https://www.thonk.co.uk/shop/alpha-9mm-pots/"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "23747553-115a-4dd5-ad80-43315893689c")
+			(uuid "35597437-f3ae-4d7b-9e8a-1ab294f8d33d")
 			(effects
 				(font
 					(size 1 1)
@@ -5755,7 +5766,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5764,6 +5775,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a58d1a5c-55b8-4374-a6e6-93ce208febcb")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6141,7 +6165,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Thonkiconn jack"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6153,11 +6177,12 @@
 				)
 			)
 		)
-		(property "Comments" "Thonkiconn jack"
+		(property "Links" "https://www.thonk.co.uk/shop/thonkiconn/"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6d4ab53a-8eae-452b-802f-a09df91a733d")
+			(uuid "59f0491b-3377-4ce2-b7ad-d36011be1e72")
 			(effects
 				(font
 					(size 1 1)
@@ -6540,7 +6565,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Thonkiconn jack"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -6552,11 +6577,12 @@
 				)
 			)
 		)
-		(property "Comments" "Thonkiconn jack"
-			(at 255 99 0)
+		(property "Links" "https://www.thonk.co.uk/shop/thonkiconn/"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ef652cfd-224a-44e9-b36f-8df4c47b5040")
+			(uuid "906e93f6-caa6-4a8f-9211-1659216965d4")
 			(effects
 				(font
 					(size 1 1)
@@ -6939,7 +6965,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Thonkiconn jack"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -6951,11 +6977,12 @@
 				)
 			)
 		)
-		(property "Comments" "Thonkiconn jack"
-			(at 281 99 0)
+		(property "Links" "https://www.thonk.co.uk/shop/thonkiconn/"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3aa1efa5-707a-4113-b5da-38274eb39ba8")
+			(uuid "82e6a8a4-e18d-4ae2-89ef-b9aeadd95f67")
 			(effects
 				(font
 					(size 1 1)
@@ -7339,7 +7366,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7348,6 +7375,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7d21cc33-5014-4c1a-8f2a-ed569dcd511a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7613,7 +7653,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Thonkiconn jack"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -7625,11 +7665,12 @@
 				)
 			)
 		)
-		(property "Comments" "Thonkiconn jack"
-			(at 229 99 0)
+		(property "Links" "https://www.thonk.co.uk/shop/thonkiconn/"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b9e5a677-cdf7-4a8c-b0c2-c8e6a4a63b53")
+			(uuid "4b7f5f56-d5f3-44cf-94da-565fb09a336b")
 			(effects
 				(font
 					(size 1 1)
@@ -8013,7 +8054,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8022,6 +8063,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5d122cc4-aa95-4414-aaab-d03dd99395b0")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8287,7 +8341,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Thonkiconn jack"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8299,11 +8353,12 @@
 				)
 			)
 		)
-		(property "Comments" "Thonkiconn jack"
+		(property "Links" "https://www.thonk.co.uk/shop/thonkiconn/"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9f55c855-63da-4d9e-a099-e7d478fed9d6")
+			(uuid "1501ac64-1507-422c-807d-f0115d216c82")
 			(effects
 				(font
 					(size 1 1)
@@ -8686,7 +8741,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Thonkiconn jack"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -8698,11 +8753,12 @@
 				)
 			)
 		)
-		(property "Comments" "Thonkiconn jack"
-			(at 307 99 0)
+		(property "Links" "https://www.thonk.co.uk/shop/thonkiconn/"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d23807d6-9980-4a65-94f2-73ba9fde2328")
+			(uuid "d5fdeb7c-f997-4536-8cdc-87daed056b2a")
 			(effects
 				(font
 					(size 1 1)
@@ -9086,7 +9142,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9095,6 +9151,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f7aa43ea-d5e3-48e9-8302-c646fc33cc77")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -9361,7 +9430,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SPDT ON-ON toggle switch"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -9373,11 +9442,12 @@
 				)
 			)
 		)
-		(property "Comments" "SPDT On-On Switch"
-			(at 225 -11 0)
+		(property "Links" "https://www.thonk.co.uk/shop/mini-toggle-switches/"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2fcfc6eb-ccbb-446a-9690-510198eab97b")
+			(uuid "fb205065-6844-4b51-85ba-aa0a190b33a7")
 			(effects
 				(font
 					(size 1 1)
@@ -9759,7 +9829,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9768,6 +9838,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5e682e51-0fcd-41f2-b7ef-e8e62f4764eb")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -10034,7 +10117,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10043,6 +10126,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "89131d98-c476-4c60-8a4b-f5a4ec9e44d4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -10308,7 +10404,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Alpha/bourns vertical potentiometer"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10320,11 +10416,12 @@
 				)
 			)
 		)
-		(property "Comments" "Alpha/bourns vertical potentiometer"
-			(at 266.55 -37.45 0)
+		(property "Links" "https://www.thonk.co.uk/shop/alpha-9mm-pots/"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b575fcf4-a258-4620-ba95-bd3922151ed0")
+			(uuid "832024c4-b6bd-4b2f-b783-8b1ef6aa5839")
 			(effects
 				(font
 					(size 1 1)
@@ -10641,7 +10738,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.54mm pitch pin socket vertical 1x8pos"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10649,18 +10746,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Comments" "Regular pin socket"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bae3f3a0-bb14-4d22-a246-b09ce72ff3f3")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -10984,7 +11069,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.54mm pitch pin socket vertical 1x8pos"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10992,18 +11077,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Comments" "Regular pin socket"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6d965dac-2f2b-418d-b4ec-8ace71f2eb4a")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11328,7 +11401,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11337,6 +11410,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7679c7db-cc13-43e7-9284-01751fbe66a5")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11603,7 +11689,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SPDT ON-ON toggle switch"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -11615,11 +11701,12 @@
 				)
 			)
 		)
-		(property "Comments" "SPDT On-On Switch"
-			(at 201 -77 0)
+		(property "Links" "https://www.thonk.co.uk/shop/mini-toggle-switches/"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1c4141cd-a358-4a76-a547-58af01ecf08c")
+			(uuid "5e3256e8-6f06-4bc0-a3e7-63e26bf7af0f")
 			(effects
 				(font
 					(size 1 1)
@@ -12001,7 +12088,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12010,6 +12097,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "954c3618-f729-4fdb-82c3-72f6947b650c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12276,7 +12376,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12285,6 +12385,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "40dec88d-84f5-4df2-b3b7-e198985f8d4f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12550,7 +12663,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Thonkiconn jack"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12562,11 +12675,12 @@
 				)
 			)
 		)
-		(property "Comments" "Thonkiconn jack"
+		(property "Links" "https://www.thonk.co.uk/shop/thonkiconn/"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3f1012b2-c0f5-4c2e-844c-24a8cec949f0")
+			(uuid "f872e9cc-1a82-47a9-8744-4e6275261b92")
 			(effects
 				(font
 					(size 1 1)
@@ -12949,7 +13063,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Thonkiconn jack"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12961,11 +13075,12 @@
 				)
 			)
 		)
-		(property "Comments" "Thonkiconn jack"
+		(property "Links" "https://www.thonk.co.uk/shop/thonkiconn/"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "55a92af1-275c-44d7-9867-2479f82aad8a")
+			(uuid "edbd8175-1847-42fd-a191-f12f89cbdbba")
 			(effects
 				(font
 					(size 1 1)
@@ -13349,7 +13464,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SPDT ON-ON toggle switch"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13361,11 +13476,12 @@
 				)
 			)
 		)
-		(property "Comments" "SPDT On-On Switch"
-			(at 235.5 -21.5 0)
+		(property "Links" "https://www.thonk.co.uk/shop/mini-toggle-switches/"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e0696158-4675-45ac-a977-09f184122844")
+			(uuid "d4f41a2e-7303-452b-9a3a-fbebc7d8b7e5")
 			(effects
 				(font
 					(size 1 1)
@@ -14008,7 +14124,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Ceramic disc capacitor 50V 20%"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -14016,6 +14132,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/capacitors/ceramic-disc-capacitors/test-group-2.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5bac31f0-34c6-4687-9144-d11c802c0768")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -14248,7 +14378,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -14257,6 +14387,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c0be910d-697c-4d75-816f-888411582179")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -14529,7 +14673,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -14538,6 +14682,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "864762b6-4195-49a5-8afc-7abf365fac90")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -14808,7 +14966,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2N3904 NPN General Purpose Transistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -14816,6 +14974,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/2n3904-npn-general-propose-transistor.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4d050c82-f572-4b76-9db5-d273ff020f6c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -15045,7 +15217,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -15054,6 +15226,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2f4c03dc-49f9-4bce-a588-aeef9ce58186")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -15326,7 +15512,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -15335,6 +15521,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ef69f823-71b9-459d-be00-d67fc1df4176")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -15607,7 +15807,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -15616,6 +15816,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3725618e-6259-4cb9-bf0c-da4cf7649f55")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -15888,7 +16102,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -15897,6 +16111,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f2b0c268-ec9c-4cbf-9155-0bcd5bb5e5ad")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -16169,7 +16397,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16178,6 +16406,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d03f9685-f07d-4c37-9ce9-408f75d342d4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -16450,7 +16692,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16459,6 +16701,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "652d52dc-b802-4b3f-8ed5-4c60b4644823")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -16731,7 +16987,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16740,6 +16996,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fac680f8-00ba-419c-9891-f0760fcb9292")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -17012,7 +17282,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17021,6 +17291,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ba5789af-418f-469d-9339-c71394ba7974")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -17293,7 +17577,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17302,6 +17586,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6211be1d-ae7d-4f7a-ade8-389d951f50f1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -17574,7 +17872,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17583,6 +17881,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "30bf02c8-15d3-422d-9080-59f138f95b30")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -17855,7 +18167,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17864,6 +18176,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fa21051d-60f2-45b0-8b3f-ec40a331809b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -18136,7 +18462,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -18145,6 +18471,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4645ef8c-c42e-4fdd-983f-e91b2071e893")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -18417,7 +18757,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -18426,6 +18766,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a84c1db6-09b2-44c2-a635-17b4bf4ea168")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -18698,7 +19052,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -18707,6 +19061,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7db1defc-c504-48d3-bac0-f9755fbe1d76")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -18979,7 +19347,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -18988,6 +19356,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bf40f960-6ea3-4745-92d8-c452958240f5")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -19258,7 +19640,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2N3904 NPN General Purpose Transistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -19266,6 +19648,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/2n3904-npn-general-propose-transistor.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ad6ee27d-4257-444f-af2b-cc07553c7e07")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -19495,7 +19891,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -19504,6 +19900,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3339441a-d511-4e31-9f1f-ce843a05a53c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -19776,7 +20186,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -19785,6 +20195,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "dcd85df5-1dca-4077-8317-c5a8d0a3dd35")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -19999,16 +20423,16 @@
 			)
 		)
 	)
-	(footprint "Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal"
+	(footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
 		(layer "B.Cu")
 		(uuid "3355f88e-b5b6-473c-839f-da0b559f3e03")
-		(at 58.5 54.26 180)
-		(descr "Potentiometer, horizontal, Bourns 3386C, https://www.bourns.com/pdfs/3386.pdf")
-		(tags "Potentiometer horizontal Bourns 3386C")
+		(at 58.5 54.26 90)
+		(descr "Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf")
+		(tags "Potentiometer vertical Bourns 3296W")
 		(property "Reference" "Trim3"
-			(at 0 3.475 0)
+			(at 3.16 0 180)
 			(layer "B.SilkS")
-			(uuid "5140beb0-fe79-48e8-9160-6c58a06935c3")
+			(uuid "4edca7d1-2f75-413b-8830-04d45c7797e3")
 			(effects
 				(font
 					(size 1 1)
@@ -20018,9 +20442,9 @@
 			)
 		)
 		(property "Value" "2k"
-			(at 0 -8.555 0)
+			(at -2.54 -3.67 90)
 			(layer "B.Fab")
-			(uuid "7be93413-99cf-4e29-9aae-666fe5715e98")
+			(uuid "055a0ff6-0cae-4eec-a661-8f1a97dc9202")
 			(effects
 				(font
 					(size 1 1)
@@ -20029,11 +20453,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal"
-			(at 0 0 0)
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
+			(at 0 0 -90)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "976e7731-4639-4407-8a7a-709471caa17b")
+			(uuid "d52e3810-20ed-4461-af74-f0656c9357e6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20043,10 +20468,11 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 -90)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "69667c46-e2f0-4bc9-8f46-c434e3e4e924")
+			(uuid "ab345013-6222-47e3-81b6-44ebc8cab35b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20055,37 +20481,26 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 0)
+		(property "Description" "Trimmer potentiometer, 25 turn series 3296W"
+			(at 0 0 -90)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "72ae07f8-06fe-4225-9341-9183cfe3b9c2")
+			(uuid "799006a7-7e25-4d9f-a495-6bfbd0870a75")
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Comments" "Use multi turn Cermet style 3296 pots "
-			(at 0 0 0)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "8e10a5e3-68d1-4082-8639-31de4045c353")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(property "manf" ""
-			(at 0 0 0)
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "09379d7f-a287-4634-bd60-0a195a5ee863")
+			(uuid "5bfeaf1e-eb1a-4ebb-8d67-31c67bd0bf6d")
 			(effects
 				(font
 					(size 1 1)
@@ -20095,10 +20510,25 @@
 			)
 		)
 		(property "manf#" ""
-			(at 0 0 0)
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "aa9b51ca-8633-4359-97a0-845b0e4a8541")
+			(uuid "aa9a55cb-4bf5-4b17-a480-b8a065ce6aad")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.thonk.co.uk/shop/25-turn-trimmer-potentiometer/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "10f62d50-656b-4266-ab74-f1a6190b26b6")
 			(effects
 				(font
 					(size 1 1)
@@ -20113,129 +20543,160 @@
 		(sheetfile "VCA_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 2.535 2.345)
-			(end -2.535 2.345)
+			(start 2.345 -2.54)
+			(end -7.425 -2.54)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "44a45265-9c87-4484-8594-20de4d515edf")
+			(uuid "02215efc-bcfc-45b0-bb3a-f6e029a11f62")
 		)
 		(fp_line
-			(start 2.535 -7.425)
-			(end 2.535 2.345)
+			(start 2.345 -2.54)
+			(end 2.345 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "c2e9e66b-0ad4-4ace-9559-fe2aba9df759")
+			(uuid "bffdda18-52ed-4c0f-80bd-095bbc122031")
 		)
 		(fp_line
-			(start 2.535 -7.425)
-			(end -2.535 -7.425)
+			(start -7.425 -2.54)
+			(end -7.425 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "28fee4d2-d604-4a59-89d0-76f54b5a09ec")
+			(uuid "c7fb98dc-4f4b-485d-b879-cbfd5a0fe886")
 		)
 		(fp_line
-			(start -2.535 -7.425)
-			(end -2.535 2.345)
+			(start 2.345 2.53)
+			(end -7.425 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "e8e1e93f-0dea-4faa-a560-3155f7e13c53")
+			(uuid "57e42ac3-5be6-4934-a988-226b050a4f60")
 		)
 		(fp_line
-			(start 2.67 2.48)
-			(end 2.67 -7.56)
+			(start 2.5 -2.7)
+			(end -7.6 -2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "033f174d-2855-402b-86a7-f4253397a356")
+			(uuid "5d80bef2-082f-4389-ba9d-6e8b318d06a1")
 		)
 		(fp_line
-			(start 2.67 -7.56)
-			(end -2.67 -7.56)
+			(start -7.6 -2.7)
+			(end -7.6 2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "9be3deb9-3a89-4838-9e52-c5948e68a2d4")
+			(uuid "51aeb4df-94fd-4d45-aff7-d2e79cde1ee9")
 		)
 		(fp_line
-			(start -2.67 2.48)
-			(end 2.67 2.48)
+			(start 2.5 2.7)
+			(end 2.5 -2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "d38d9b1e-2649-44b8-96b0-2e3c2bbd9a3d")
+			(uuid "f9622175-b181-4bb0-b7cc-f50fc4eaba32")
 		)
 		(fp_line
-			(start -2.67 -7.56)
-			(end -2.67 2.48)
+			(start -7.6 2.7)
+			(end 2.5 2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "9df039ed-12e8-4603-83e2-706303ab2a07")
+			(uuid "dd0e4e8e-bb8a-411f-a12a-d8d7cae3209d")
 		)
 		(fp_line
-			(start 2.415 2.225)
-			(end -2.415 2.225)
+			(start 2.225 -2.42)
+			(end -7.305 -2.42)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "9978459d-e882-48da-9262-7a07f83fdc85")
+			(uuid "55c8a609-7d4a-47ce-8fcf-a6f0fa2154ee")
 		)
 		(fp_line
-			(start 2.415 -7.305)
-			(end 2.415 2.225)
+			(start -7.305 -2.42)
+			(end -7.305 2.41)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "1cddf32e-ca96-4b22-8534-8004cc5097ad")
+			(uuid "70815bd5-67cc-4710-9b05-4edc3ac19709")
 		)
 		(fp_line
-			(start -2.415 2.225)
-			(end -2.415 -7.305)
+			(start 0.956 -0.066)
+			(end 0.955 -2.235)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "678b82a8-1cbb-4428-b01b-59d08d5b458d")
+			(uuid "94bce23f-3e00-4f11-897e-5003a30f68cf")
 		)
 		(fp_line
-			(start -2.415 -7.305)
-			(end 2.415 -7.305)
+			(start 0.956 -0.066)
+			(end 0.955 -2.235)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "283cb77e-f324-48a8-a30f-0a622d03a505")
+			(uuid "fb8ad7be-a46f-4e8b-b105-b6e859ce6558")
+		)
+		(fp_line
+			(start 2.225 2.41)
+			(end 2.225 -2.42)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "959f8037-726f-4d60-ab62-da4dae3e1f15")
+		)
+		(fp_line
+			(start -7.305 2.41)
+			(end 2.225 2.41)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "073f79a1-4570-425e-abdd-4a50dc13792c")
+		)
+		(fp_circle
+			(center 0.955 -1.15)
+			(end 2.05 -1.15)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill none)
+			(layer "B.Fab")
+			(uuid "34d42b83-e8ea-4868-a80f-5411cde2605d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2.54 0)
+			(at -3.175 -0.005 90)
 			(layer "B.Fab")
-			(uuid "cd549bed-31da-481c-acd4-4769d08f18e3")
+			(uuid "d7f5674d-de3b-4b72-bc63-e91275d536f7")
 			(effects
 				(font
 					(size 1 1)
@@ -20245,7 +20706,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0 180)
+			(at 0 0 90)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -20253,10 +20714,10 @@
 			(net 38 "/VCA_3/In3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "09687a9f-6e44-414c-a4fe-d243453fa274")
+			(uuid "94b03e17-3a9e-442e-9686-6f94abe6d5af")
 		)
 		(pad "2" thru_hole circle
-			(at 0 -2.54 180)
+			(at -2.54 0 90)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -20264,10 +20725,10 @@
 			(net 38 "/VCA_3/In3")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "101f8e67-84c9-4af8-bf74-afa3077839a2")
+			(uuid "4b52ff87-ed3e-4b44-8577-d0c5999ab68a")
 		)
 		(pad "3" thru_hole circle
-			(at 0 -5.08 180)
+			(at -5.08 0 90)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -20275,9 +20736,9 @@
 			(net 77 "Net-(R47-Pad1)")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "29b8faf7-9314-42b6-a07b-9f30ed803e96")
+			(uuid "48b7cf43-420d-4217-8c93-0a5722a5a2bc")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3386C_Horizontal.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3296W_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20347,7 +20808,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -20356,6 +20817,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3e174afb-7d86-4b6c-bcee-359e0d617c38")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -20628,7 +21103,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -20637,6 +21112,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4459a099-001b-4cf9-928a-c0dfca0874b9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -20907,7 +21396,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Ceramic disc capacitor 50V 20%"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -20915,6 +21404,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/capacitors/ceramic-disc-capacitors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "570c9d49-d7e7-415f-9944-2f09928e9728")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -21147,7 +21650,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -21156,6 +21659,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fde0a2bf-4611-4ef4-9878-aea476a0bdf7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -21428,7 +21945,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -21437,6 +21954,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "90e846e3-2e62-41cb-992e-93dcb34c34e4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -21709,7 +22240,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -21718,6 +22249,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "77cd4cd9-3f57-49bd-9f0d-1b11daafac22")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -21990,7 +22535,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -21999,6 +22544,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f6542544-2a78-4bd7-88b3-e1f0d097e8fd")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -22271,7 +22830,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -22280,6 +22839,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "15418609-ac90-4d4d-a5be-75f98fb1789a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -22550,7 +23123,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Ceramic disc capacitor 50V 20%"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -22558,6 +23131,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/capacitors/ceramic-disc-capacitors/test-group-2.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6a55ec11-a312-4d61-abbb-1e442028168f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -22788,7 +23375,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2N3904 NPN General Purpose Transistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -22796,6 +23383,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/2n3904-npn-general-propose-transistor.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "05478a72-03e5-457d-8024-13caa4b7d8ac")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -23025,7 +23626,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -23034,6 +23635,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ec218496-07e2-4cdf-981c-e74d87b4cbf9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -23306,7 +23921,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -23315,6 +23930,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7f1c2505-56c1-41e2-bb51-2dec8bfcf5e1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -23587,7 +24216,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -23596,6 +24225,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c5adcb46-e756-44d2-9253-56066b703eb1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -23868,7 +24511,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -23877,6 +24520,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a8da450c-9f3b-40c5-9ca6-d50b8fb5115a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -24146,7 +24803,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.54mm pitch pin header vertical 1x8pos"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -24156,19 +24813,6 @@
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
-			)
-		)
-		(property "Comments" "Regular pin header"
-			(at 295 153.4 0)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "7b39681e-5641-4f4b-9257-910f9aa99d82")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
@@ -24493,7 +25137,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.54mm pitch pin header vertical 1x8pos"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -24503,19 +25147,6 @@
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
-			)
-		)
-		(property "Comments" "Regular pin header"
-			(at 221.6 153.4 0)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "0db68591-1451-43aa-a195-131ba916b55b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
@@ -24843,7 +25474,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -24852,6 +25483,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "57035335-c76d-49b5-b6d3-8328471155cf")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -25124,7 +25769,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -25133,6 +25778,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0f9c609f-4f34-428c-81cd-684d8f7f8f45")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -25405,7 +26064,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -25414,6 +26073,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b3fa08e5-17d2-4de7-9dc3-a8fb72ca460c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -25686,7 +26359,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -25695,6 +26368,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9e0580b0-f3a8-40fe-ad8d-822192ad2f96")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -25967,7 +26654,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -25976,6 +26663,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7599dcfd-f60f-4580-ae83-3cdc5893d456")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -26248,7 +26949,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -26257,6 +26958,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "45ee6868-722b-4705-83ff-2e977debb7bd")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -26529,7 +27244,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -26538,6 +27253,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "88139354-c8ae-42a4-a689-f36d108c4159")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -26810,7 +27539,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -26819,6 +27548,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "aa63bd52-b855-410a-85df-c245e64545b2")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -27091,7 +27834,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -27100,6 +27843,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "18f5cdd4-9e36-4d00-ae00-671493cf76a7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -27372,7 +28129,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -27381,6 +28138,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "122b76e3-0b32-4d49-9975-53e337c4954a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -27653,7 +28424,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -27662,6 +28433,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7446c610-0abf-4eb3-ad47-a3f13f949365")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -27934,7 +28719,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -27943,6 +28728,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9a1d83fd-fa9c-4458-a290-bce38a1d093e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -28215,7 +29014,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -28224,6 +29023,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d9e290b7-7f8c-4c3a-972d-1f689974e3bc")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -28496,7 +29309,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -28505,6 +29318,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bb08c671-ed72-4136-9c3f-a3d4718e3343")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -28777,7 +29604,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -28786,6 +29613,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9ad88b39-5f3c-4215-a3cd-6cbb08863771")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -29058,7 +29899,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -29067,6 +29908,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "128d2c78-1925-47c9-a1da-54c7d11d78be")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -29281,16 +30136,16 @@
 			)
 		)
 	)
-	(footprint "Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal"
+	(footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
 		(layer "B.Cu")
 		(uuid "76985ce6-66a3-4535-9155-e73549580198")
-		(at 78.86 89.6 -90)
-		(descr "Potentiometer, horizontal, Bourns 3386C, https://www.bourns.com/pdfs/3386.pdf")
-		(tags "Potentiometer horizontal Bourns 3386C")
+		(at 78.86 89.6 180)
+		(descr "Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf")
+		(tags "Potentiometer vertical Bourns 3296W")
 		(property "Reference" "Bias_adjust2"
-			(at -3.6 -2.54 180)
+			(at -2.54 3.66 360)
 			(layer "B.SilkS")
-			(uuid "b7f6ad3c-6610-422b-8290-506223f66d77")
+			(uuid "fce54736-6fdd-4fa4-bf41-ea056d127eb6")
 			(effects
 				(font
 					(size 1 1)
@@ -29300,9 +30155,9 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 0 -8.555 90)
+			(at -2.54 -3.67 360)
 			(layer "B.Fab")
-			(uuid "68f9a0f7-5530-473f-83af-483e2c000ea7")
+			(uuid "740dd7c4-f0b2-4e8f-93de-e651b06b1e2f")
 			(effects
 				(font
 					(size 1 1)
@@ -29311,11 +30166,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal"
-			(at 0 0 90)
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
+			(at 0 0 0)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "f3b161a7-a010-4c7c-b3b1-05609e812c92")
+			(uuid "25be190e-84f7-4167-98bc-43cc4eb7bdd1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29325,10 +30181,11 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 0)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "9eacf701-b215-4d9f-9628-44719e23a5df")
+			(uuid "434ade8f-c769-464c-b2fb-a216d8762932")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29337,37 +30194,26 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 90)
+		(property "Description" "Trimmer potentiometer, 25 turn series 3296W"
+			(at 0 0 0)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "dd68371f-9220-45ec-b1fc-88adc2e04adb")
+			(uuid "c9d478a6-504b-4962-af94-567acd8e436b")
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Comments" "Use multi turn Cermet style 3296 pots "
-			(at 0 0 90)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "859199b3-e617-409a-9092-e6a0076ac041")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(property "manf" ""
-			(at 0 0 90)
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "2d84e47d-9dd3-4722-a9f8-2ef37de3a3e0")
+			(uuid "2ce3ab27-0a97-482c-91eb-7ae2ccf0dcbb")
 			(effects
 				(font
 					(size 1 1)
@@ -29377,10 +30223,25 @@
 			)
 		)
 		(property "manf#" ""
-			(at 0 0 90)
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "f8c9f370-e6df-4400-96a1-8b11ca522a09")
+			(uuid "de1d7504-919f-40ce-b754-bf48721e7e77")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.thonk.co.uk/shop/25-turn-trimmer-potentiometer/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6f552588-35be-40a5-b9f4-410a0f6ca5ce")
 			(effects
 				(font
 					(size 1 1)
@@ -29395,129 +30256,160 @@
 		(sheetfile "VCA_2.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 2.535 2.345)
-			(end -2.535 2.345)
+			(start 2.345 2.53)
+			(end -7.425 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "4623afa2-1855-4035-a529-8182ec9c8ee9")
+			(uuid "237c9391-e7f0-48c6-b3e2-c861b0cc6484")
 		)
 		(fp_line
-			(start -2.535 -7.425)
-			(end -2.535 2.345)
+			(start 2.345 -2.54)
+			(end 2.345 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "f81cd7e4-1053-456c-b91d-78ae3d7295ce")
+			(uuid "ae51e7e0-b65d-46cb-9651-4b2b576a2632")
 		)
 		(fp_line
-			(start 2.535 -7.425)
-			(end 2.535 2.345)
+			(start 2.345 -2.54)
+			(end -7.425 -2.54)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "a3dfd3b0-dcf2-4df7-b779-cfea3f9b8c1a")
+			(uuid "c807733b-43bd-4e6f-8dac-771ecce58ba1")
 		)
 		(fp_line
-			(start 2.535 -7.425)
-			(end -2.535 -7.425)
+			(start -7.425 -2.54)
+			(end -7.425 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "7c60dc0e-5907-4b39-873a-bd584f6ea58a")
+			(uuid "63b9e762-fc48-494d-a2f7-16843f86a553")
 		)
 		(fp_line
-			(start -2.67 2.48)
-			(end 2.67 2.48)
+			(start 2.5 2.7)
+			(end 2.5 -2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "ca27d169-c517-4017-a845-f5997201080c")
+			(uuid "b945fe2b-8017-43e9-b22f-6c9ffcbe1727")
 		)
 		(fp_line
-			(start 2.67 2.48)
-			(end 2.67 -7.56)
+			(start 2.5 -2.7)
+			(end -7.6 -2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "620c52cc-d466-4c2c-ae9c-545bf03f1eb6")
+			(uuid "ac6b584a-a737-41d6-8485-37aff41ac78b")
 		)
 		(fp_line
-			(start -2.67 -7.56)
-			(end -2.67 2.48)
+			(start -7.6 2.7)
+			(end 2.5 2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "41f58de1-d33c-4461-b212-4ac4a1c85832")
+			(uuid "98ae334d-0d98-4104-b511-8beedb5231a2")
 		)
 		(fp_line
-			(start 2.67 -7.56)
-			(end -2.67 -7.56)
+			(start -7.6 -2.7)
+			(end -7.6 2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "9b218bb1-7d28-4ba0-b45d-29f978a998a7")
+			(uuid "b56f1f95-cfe5-4bea-b737-743bec9325d0")
 		)
 		(fp_line
-			(start -2.415 2.225)
-			(end -2.415 -7.305)
+			(start 2.225 2.41)
+			(end 2.225 -2.42)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "6283d7dc-182f-4a75-8371-d5bb589ee0b5")
+			(uuid "0717c188-91df-44c4-9fad-716647ae98c6")
 		)
 		(fp_line
-			(start 2.415 2.225)
-			(end -2.415 2.225)
+			(start 2.225 -2.42)
+			(end -7.305 -2.42)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "5e5da980-61ee-48ce-aff2-20875fb38866")
+			(uuid "385bdd95-b875-4e70-8459-09f84bee207b")
 		)
 		(fp_line
-			(start -2.415 -7.305)
-			(end 2.415 -7.305)
+			(start 0.956 -0.066)
+			(end 0.955 -2.235)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "51928c26-aff8-4071-8ff4-96ffc4c17a3d")
+			(uuid "b1d4e993-e536-4fc6-a64e-7575f390b38d")
 		)
 		(fp_line
-			(start 2.415 -7.305)
-			(end 2.415 2.225)
+			(start 0.956 -0.066)
+			(end 0.955 -2.235)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "501fd593-bee2-4421-af1c-2468643c4480")
+			(uuid "b78c0163-5133-4017-81a0-6eedd1a2f137")
+		)
+		(fp_line
+			(start -7.305 2.41)
+			(end 2.225 2.41)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "215e7571-9f1b-49e2-a5df-1d894f1288a6")
+		)
+		(fp_line
+			(start -7.305 -2.42)
+			(end -7.305 2.41)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "7cccb725-9777-4959-8f07-6f1018808015")
+		)
+		(fp_circle
+			(center 0.955 -1.15)
+			(end 2.05 -1.15)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill none)
+			(layer "B.Fab")
+			(uuid "0e55b820-8eeb-42c0-9628-5f838f87b814")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2.54 90)
+			(at -3.175 -0.005 360)
 			(layer "B.Fab")
-			(uuid "aa6e6505-9af3-461e-a026-06c7c0e01657")
+			(uuid "2519c2d3-2c98-476c-9aa4-a140bc5ec0fc")
 			(effects
 				(font
 					(size 1 1)
@@ -29527,7 +30419,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0 270)
+			(at 0 0 180)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -29535,10 +30427,10 @@
 			(net 2 "+12V")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "98fc65ca-b9ac-4366-ae29-fc067f39e3c0")
+			(uuid "7dda8936-3d3d-4913-a657-6f772ae04c07")
 		)
 		(pad "2" thru_hole circle
-			(at 0 -2.54 270)
+			(at -2.54 0 180)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -29546,10 +30438,10 @@
 			(net 7 "Net-(Bias_adjust2-Pad2)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "fe90be4d-78b9-443b-9a0f-f77857c8f94f")
+			(uuid "313af30d-ef17-4ab6-a960-a07bbde6879c")
 		)
 		(pad "3" thru_hole circle
-			(at 0 -5.08 270)
+			(at -5.08 0 180)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -29557,9 +30449,9 @@
 			(net 3 "-12V")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "8f027c5d-e34e-4f42-b5a5-0610b79f7b76")
+			(uuid "045b7863-6ff7-4384-9d22-1f14a81165fd")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3386C_Horizontal.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3296W_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29571,16 +30463,16 @@
 			)
 		)
 	)
-	(footprint "Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal"
+	(footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
 		(layer "B.Cu")
 		(uuid "76ec97f0-edab-4a5a-bd6e-a272e91d95b6")
-		(at 78.86 95 -90)
-		(descr "Potentiometer, horizontal, Bourns 3386C, https://www.bourns.com/pdfs/3386.pdf")
-		(tags "Potentiometer horizontal Bourns 3386C")
+		(at 78.82 95 180)
+		(descr "Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf")
+		(tags "Potentiometer vertical Bourns 3296W")
 		(property "Reference" "Trim2"
-			(at 0 3.16 90)
+			(at 3.12 0.2 90)
 			(layer "B.SilkS")
-			(uuid "70699665-825e-4b2b-aea8-aa7b83d40079")
+			(uuid "5b3c83a4-cbc8-4ae2-8ff1-1993d4696396")
 			(effects
 				(font
 					(size 1 1)
@@ -29590,9 +30482,9 @@
 			)
 		)
 		(property "Value" "2k"
-			(at 0 -8.555 90)
+			(at -2.54 -3.67 360)
 			(layer "B.Fab")
-			(uuid "6f6f5e1f-8b01-4920-b88c-543ea634b393")
+			(uuid "2560902d-491c-4cd9-9b5f-4b72a2266194")
 			(effects
 				(font
 					(size 1 1)
@@ -29601,11 +30493,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal"
-			(at 0 0 90)
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
+			(at 0 0 0)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "b2526b5d-3700-4d6c-b734-d18646f3c3da")
+			(uuid "0788cff1-43ac-491a-89c4-ec4a47c9deca")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29615,10 +30508,11 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 0)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "af5fc2cd-b883-4b2f-a978-4eba8da4bdf1")
+			(uuid "67c211f6-78e7-4de1-b972-bc96b15b6df5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29627,37 +30521,26 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 90)
+		(property "Description" "Trimmer potentiometer, 25 turn series 3296W"
+			(at 0 0 0)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "652673ab-a0eb-4551-b12c-ad8254e785f9")
+			(uuid "9029e05e-18d5-4a36-9711-2439e762042c")
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Comments" "Use multi turn Cermet style 3296 pots "
-			(at 0 0 90)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "ce6856b7-aed0-4b05-94e1-73cc20d495eb")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(property "manf" ""
-			(at 0 0 90)
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "da6ff861-a83b-4fe1-9551-9712c476009d")
+			(uuid "e6d50fd3-035b-4931-94eb-b3d0c4af3223")
 			(effects
 				(font
 					(size 1 1)
@@ -29667,10 +30550,25 @@
 			)
 		)
 		(property "manf#" ""
-			(at 0 0 90)
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "3d50a2dc-e7c0-4abb-aeb7-2347749544a5")
+			(uuid "b9481c1d-932e-4f61-bc32-7a305ef651fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.thonk.co.uk/shop/25-turn-trimmer-potentiometer/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "31d4290a-414e-45c6-9175-3ff073b488b8")
 			(effects
 				(font
 					(size 1 1)
@@ -29685,129 +30583,160 @@
 		(sheetfile "VCA_2.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 2.535 2.345)
-			(end -2.535 2.345)
+			(start 2.345 2.53)
+			(end -7.425 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "398f2a69-e120-4d9d-8fc0-43a9b93fbce4")
+			(uuid "10350a1d-0232-4f2b-9e52-1e6a126912bd")
 		)
 		(fp_line
-			(start -2.535 -7.425)
-			(end -2.535 2.345)
+			(start 2.345 -2.54)
+			(end 2.345 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "6ccc993e-b3d8-4291-adf5-be69dcfa205c")
+			(uuid "85706cb1-3cec-4432-a357-598f68bf20fd")
 		)
 		(fp_line
-			(start 2.535 -7.425)
-			(end 2.535 2.345)
+			(start 2.345 -2.54)
+			(end -7.425 -2.54)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "25b86aa5-80cc-48e2-9da7-318d11b32411")
+			(uuid "60e6dcd1-6014-4dc5-a987-8ce98346d34b")
 		)
 		(fp_line
-			(start 2.535 -7.425)
-			(end -2.535 -7.425)
+			(start -7.425 -2.54)
+			(end -7.425 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "d448de38-5fc9-4228-9626-59e9c27c9d60")
+			(uuid "e85f2dd9-cfcb-44f6-9551-90481f9a0568")
 		)
 		(fp_line
-			(start -2.67 2.48)
-			(end 2.67 2.48)
+			(start 2.5 2.7)
+			(end 2.5 -2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "5b2afe80-04cc-42f0-924d-1d0f2ee2629a")
+			(uuid "d77012e8-264e-47df-af96-557a0281831c")
 		)
 		(fp_line
-			(start 2.67 2.48)
-			(end 2.67 -7.56)
+			(start 2.5 -2.7)
+			(end -7.6 -2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "9ff3139f-4c67-431e-918b-b909e7fbbb8d")
+			(uuid "375cc846-3c7e-4b7d-986b-a5c0b672b649")
 		)
 		(fp_line
-			(start -2.67 -7.56)
-			(end -2.67 2.48)
+			(start -7.6 2.7)
+			(end 2.5 2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "18ab6b2f-b9fc-4100-ba2b-d5def5229615")
+			(uuid "a3dc9ce7-e140-4c5c-83dd-78f499e795ff")
 		)
 		(fp_line
-			(start 2.67 -7.56)
-			(end -2.67 -7.56)
+			(start -7.6 -2.7)
+			(end -7.6 2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "304a90a4-e881-4bed-8247-70b8f0dfbf3f")
+			(uuid "e77c4eee-eaea-4be9-ab3e-332cf2f655dc")
 		)
 		(fp_line
-			(start -2.415 2.225)
-			(end -2.415 -7.305)
+			(start 2.225 2.41)
+			(end 2.225 -2.42)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "29ed4577-3702-455b-8d8e-1788c12cee93")
+			(uuid "6b97e61d-f377-4e71-ba77-84a3ee654e95")
 		)
 		(fp_line
-			(start 2.415 2.225)
-			(end -2.415 2.225)
+			(start 2.225 -2.42)
+			(end -7.305 -2.42)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "a26be896-e155-464b-b4c2-3ca3e2387a82")
+			(uuid "1807d142-4e16-4c92-a5fc-e693d8625c8a")
 		)
 		(fp_line
-			(start -2.415 -7.305)
-			(end 2.415 -7.305)
+			(start 0.956 -0.066)
+			(end 0.955 -2.235)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "c3ea5d8d-868a-4e22-b064-63f1fe2c7240")
+			(uuid "22b21115-23ed-4eea-8237-c40f38219f7b")
 		)
 		(fp_line
-			(start 2.415 -7.305)
-			(end 2.415 2.225)
+			(start 0.956 -0.066)
+			(end 0.955 -2.235)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "0d89a67e-2a6f-41ee-ba60-acc0955a8b95")
+			(uuid "85730ec0-c27a-40f7-9f43-e11fed1a63d8")
+		)
+		(fp_line
+			(start -7.305 2.41)
+			(end 2.225 2.41)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "a70e6646-4f6c-4ad2-b52c-262d312bea22")
+		)
+		(fp_line
+			(start -7.305 -2.42)
+			(end -7.305 2.41)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "78aca52f-c28d-4c6e-b01d-3582308d46ec")
+		)
+		(fp_circle
+			(center 0.955 -1.15)
+			(end 2.05 -1.15)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill none)
+			(layer "B.Fab")
+			(uuid "f13954b3-6c5b-42c9-8157-3f84b8e0efa2")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2.54 90)
+			(at -3.175 -0.005 360)
 			(layer "B.Fab")
-			(uuid "33222ae6-ef0e-48a1-ad6b-5ebbd47a3de3")
+			(uuid "491da3c4-a8ea-4b29-80d1-6b7d245e3b07")
 			(effects
 				(font
 					(size 1 1)
@@ -29817,7 +30746,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0 270)
+			(at 0 0 180)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -29825,10 +30754,10 @@
 			(net 23 "/VCA_2/In2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "a3f8e923-8d2d-4197-90cd-3f6365561ed4")
+			(uuid "85cc62cb-4df1-4824-8d3f-e8cdb73176c1")
 		)
 		(pad "2" thru_hole circle
-			(at 0 -2.54 270)
+			(at -2.54 0 180)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -29836,10 +30765,10 @@
 			(net 23 "/VCA_2/In2")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "ddac4d29-f493-4269-a69a-82d51f03e98e")
+			(uuid "4c1cac02-a0dc-4cba-9805-210b2cf3cb17")
 		)
 		(pad "3" thru_hole circle
-			(at 0 -5.08 270)
+			(at -5.08 0 180)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -29847,9 +30776,9 @@
 			(net 73 "Net-(R27-Pad1)")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "d93fc8df-0d1f-4f00-8365-9574d18663ad")
+			(uuid "309df9de-04e4-4189-b6ed-f7e0b05470d1")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3386C_Horizontal.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3296W_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29917,7 +30846,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10uF Electrolytic capacitor, 2.0mm pitch, 5mm diameter"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -29925,6 +30854,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/capacitors/electrolytic-capacitors.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "17892ef3-37bc-4a4a-ac1c-de3fdafe292f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -31280,7 +32223,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -31289,6 +32232,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f97a758a-d62d-4ba1-91b9-b48a0b01fc8a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -31561,7 +32518,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -31570,6 +32527,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fa1bd273-5b23-4751-a282-f54006025ed9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -31841,7 +32812,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.54mm pitch pin header vertical 1x4pos"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -31849,19 +32820,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Comments" "Regular pin header"
-			(at 0 0 90)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "64b44f9b-0310-4ff1-9274-91b03b93e5e6")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -32148,7 +33106,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -32157,6 +33115,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7815658f-3af4-4d97-ba3a-2c93cd5ed69f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -32429,7 +33401,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -32438,6 +33410,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "91e05d26-f61e-47c2-96cc-9acd1fc0fbe6")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -32710,7 +33696,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -32719,6 +33705,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "066562e9-1ed7-4441-a477-24c769f6bcf0")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -32933,16 +33933,16 @@
 			)
 		)
 	)
-	(footprint "Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal"
+	(footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
 		(layer "B.Cu")
 		(uuid "8c0af983-1543-4bb1-bd29-ab61829cb5ea")
-		(at 96.01 71.1 -90)
-		(descr "Potentiometer, horizontal, Bourns 3386C, https://www.bourns.com/pdfs/3386.pdf")
-		(tags "Potentiometer horizontal Bourns 3386C")
+		(at 96 71.1 180)
+		(descr "Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf")
+		(tags "Potentiometer vertical Bourns 3296W")
 		(property "Reference" "Bias_adjust4"
-			(at -3.3 -2.58 0)
+			(at -2.54 3.3 360)
 			(layer "B.SilkS")
-			(uuid "67cc60df-73fa-4b05-baa4-2c3b7f30b7db")
+			(uuid "2bf0b666-9f06-461e-8b2e-6833d7972b6b")
 			(effects
 				(font
 					(size 1 1)
@@ -32952,9 +33952,9 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 0 -8.555 90)
+			(at -2.54 -3.67 360)
 			(layer "B.Fab")
-			(uuid "f3cfacd5-6673-4e54-9e9e-a2737ae27678")
+			(uuid "229e1e09-f9ce-4cb4-b594-8586707bdc46")
 			(effects
 				(font
 					(size 1 1)
@@ -32963,11 +33963,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal"
-			(at 0 0 90)
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
+			(at 0 0 0)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c2931d25-846d-4e09-bf89-721a30eaaf36")
+			(uuid "89377670-bfb0-482d-8b0d-6ba50ea061b9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32977,10 +33978,11 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 0)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8ba2eecc-202b-459f-abd2-3126bd4e1d7b")
+			(uuid "b6bdeb88-0c2d-4b37-bc2a-28e0319d39d9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32989,37 +33991,26 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 90)
+		(property "Description" "Trimmer potentiometer, 25 turn series 3296W"
+			(at 0 0 0)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "55fde548-d646-42af-b388-bf23962678a0")
+			(uuid "68aa38b4-d031-4dd0-81f7-801e9c342ed7")
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Comments" "Use multi turn Cermet style 3296 pots "
-			(at 0 0 90)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "50083688-2c4b-466d-b8b1-f14d714f66af")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(property "manf" ""
-			(at 0 0 90)
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "b7ea0866-a537-4239-9c7d-bf93dbdf3faa")
+			(uuid "47f46ad8-a0a1-4cea-8bca-d3271cc94061")
 			(effects
 				(font
 					(size 1 1)
@@ -33029,10 +34020,25 @@
 			)
 		)
 		(property "manf#" ""
-			(at 0 0 90)
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "9973b76e-2b93-4b0f-aa46-ea3f35c30523")
+			(uuid "7d2a334b-4ba6-430b-a483-176b256a5904")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.thonk.co.uk/shop/25-turn-trimmer-potentiometer/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "48a4e16b-4cca-4c3c-a50a-86e7f9182d9c")
 			(effects
 				(font
 					(size 1 1)
@@ -33047,129 +34053,160 @@
 		(sheetfile "VCA_4.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 2.535 2.345)
-			(end -2.535 2.345)
+			(start 2.345 2.53)
+			(end -7.425 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "4ed80822-3d50-4af8-a534-27155a2ff32e")
+			(uuid "7559f0e0-ff42-45b3-a559-d82311439e0d")
 		)
 		(fp_line
-			(start -2.535 -7.425)
-			(end -2.535 2.345)
+			(start 2.345 -2.54)
+			(end 2.345 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "c0906a1b-77da-4630-bae5-8fb11317a770")
+			(uuid "3a93ccbc-d74e-429a-a6b6-c2419dca96e1")
 		)
 		(fp_line
-			(start 2.535 -7.425)
-			(end 2.535 2.345)
+			(start 2.345 -2.54)
+			(end -7.425 -2.54)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "a6b7ab00-40e4-49c4-bb09-152bb7d69d6c")
+			(uuid "b580afbb-60a7-4c83-92e5-4d3afc090e1e")
 		)
 		(fp_line
-			(start 2.535 -7.425)
-			(end -2.535 -7.425)
+			(start -7.425 -2.54)
+			(end -7.425 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "95802e40-1e14-4be3-89cc-78d23c3a1f52")
+			(uuid "c4063055-c0eb-44e6-afd9-dc5698eb8c07")
 		)
 		(fp_line
-			(start -2.67 2.48)
-			(end 2.67 2.48)
+			(start 2.5 2.7)
+			(end 2.5 -2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "f0403dab-f3c5-4ab8-a3e1-50c50ed85706")
+			(uuid "fb0c80b5-6b27-4569-b634-8905f05cf7e1")
 		)
 		(fp_line
-			(start 2.67 2.48)
-			(end 2.67 -7.56)
+			(start 2.5 -2.7)
+			(end -7.6 -2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "1ce2ae88-a5e5-4b02-bf16-fc8af0194ac3")
+			(uuid "1559f83b-baf0-48d8-ac73-7bb2171ce9cb")
 		)
 		(fp_line
-			(start -2.67 -7.56)
-			(end -2.67 2.48)
+			(start -7.6 2.7)
+			(end 2.5 2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "76bc059c-b2ba-46e2-b25e-a37d2c21ad6e")
+			(uuid "39de5c48-269b-4c03-9a73-54134f3731c7")
 		)
 		(fp_line
-			(start 2.67 -7.56)
-			(end -2.67 -7.56)
+			(start -7.6 -2.7)
+			(end -7.6 2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "4feaec1d-7e3c-4d1c-942d-1ae2e326ba23")
+			(uuid "0e240ef6-ec3c-4f60-8ace-6e052bf6f821")
 		)
 		(fp_line
-			(start -2.415 2.225)
-			(end -2.415 -7.305)
+			(start 2.225 2.41)
+			(end 2.225 -2.42)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "e024422a-131f-4f37-a4d5-4a6aba0c5fc8")
+			(uuid "ca2443b4-ca28-409b-96cf-56d860fbbe2b")
 		)
 		(fp_line
-			(start 2.415 2.225)
-			(end -2.415 2.225)
+			(start 2.225 -2.42)
+			(end -7.305 -2.42)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "f16a4e5a-9c62-421e-95d4-50cfbc3ab103")
+			(uuid "a56ddd26-4236-42f3-add4-c8720a75d513")
 		)
 		(fp_line
-			(start -2.415 -7.305)
-			(end 2.415 -7.305)
+			(start 0.956 -0.066)
+			(end 0.955 -2.235)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "649ea611-cb6e-475f-9030-d7c53c2aac08")
+			(uuid "5cccc03e-db6f-4177-b243-7d63027659da")
 		)
 		(fp_line
-			(start 2.415 -7.305)
-			(end 2.415 2.225)
+			(start 0.956 -0.066)
+			(end 0.955 -2.235)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "6d94e512-6014-4610-a739-ea33a80a5aa8")
+			(uuid "b6d44780-e3e8-43c6-bf3b-028d798af1e6")
+		)
+		(fp_line
+			(start -7.305 2.41)
+			(end 2.225 2.41)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "979e01aa-7db0-400b-aaf3-5c5369100ca9")
+		)
+		(fp_line
+			(start -7.305 -2.42)
+			(end -7.305 2.41)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "4e1ff9cf-32e2-4ebb-bdb9-f4d9201f6e7c")
+		)
+		(fp_circle
+			(center 0.955 -1.15)
+			(end 2.05 -1.15)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill none)
+			(layer "B.Fab")
+			(uuid "5af37f74-91fe-44c1-a467-8b439c915a79")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2.54 90)
+			(at -3.175 -0.005 360)
 			(layer "B.Fab")
-			(uuid "68d27597-8eca-4dd1-87a9-df4d68d53a74")
+			(uuid "bcd54945-7260-4627-a68b-416eb937e5d6")
 			(effects
 				(font
 					(size 1 1)
@@ -33179,7 +34216,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0 270)
+			(at 0 0 180)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -33187,10 +34224,10 @@
 			(net 2 "+12V")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "76bdfd6d-bd80-4fc4-a51c-70044dfff39f")
+			(uuid "7ceab5e2-a22d-4a41-875e-ee5da101ea61")
 		)
 		(pad "2" thru_hole circle
-			(at 0 -2.54 270)
+			(at -2.54 0 180)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -33198,10 +34235,10 @@
 			(net 9 "Net-(Bias_adjust4-Pad2)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "b52394a5-bb79-4f68-8daf-e52c6afb1ebb")
+			(uuid "0ad41680-393f-4c2d-8b4a-a078de4bf8a5")
 		)
 		(pad "3" thru_hole circle
-			(at 0 -5.08 270)
+			(at -5.08 0 180)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -33209,9 +34246,9 @@
 			(net 3 "-12V")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "6f4ea3b7-04c0-4bc4-a42c-9bd8eeccf512")
+			(uuid "ef426954-4893-4ed1-8b24-151220d29374")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3386C_Horizontal.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3296W_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -33281,7 +34318,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -33290,6 +34327,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2f33454c-c3dd-4fc0-b21a-9dacf88c7a78")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -33560,7 +34611,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Quad Op-Amp"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -33568,6 +34619,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "manf" "Texas Instrument"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1dd483d3-6032-43ee-aae2-227112e16440")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "manf#" "TL074CN"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cb6da056-768b-4952-ba0b-09766d548665")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.thonk.co.uk/shop/eurorack-diy-essentials/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "18f08a74-e835-4b5c-9c5b-e4a9ba963d5d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -34039,7 +35132,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Dual Transconductance Amplifiers"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -34070,6 +35163,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d81bee3c-b775-455f-9c25-427df38a4dc0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://eu.mouser.com/c/semiconductors/amplifier-ics/transconductance-amplifiers/?series=LM13700"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6343a0aa-cea2-4685-b399-2d33fa93ced0")
 			(effects
 				(font
 					(size 1 1)
@@ -34447,7 +35554,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -34456,6 +35563,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ee34072a-3f28-4f60-8bf0-fbfb85b662a7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -34728,7 +35849,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -34737,6 +35858,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "968e2a80-c1cf-48c8-abc2-62a1a68a27df")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -35007,7 +36142,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2N3906 PNP General Purpose Transistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -35015,6 +36150,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/2n3906-general-propose-pnp-transistor.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7ac1f358-dcc6-4c14-b734-ff64b9f70b1d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -35244,7 +36393,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -35253,6 +36402,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bd9f1f10-3480-4fb2-b0ac-7fc7111e4348")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -35804,7 +36967,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -35813,6 +36976,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e46fe3ee-314e-43fb-b342-b31481069c87")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -36083,7 +37260,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Ceramic disc capacitor 50V 20%"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -36091,6 +37268,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/capacitors/ceramic-disc-capacitors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5cac0c71-6e82-4401-ab47-36b125736b2a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -36323,7 +37514,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -36332,6 +37523,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e0fcd248-e4f8-420e-a3ad-056c618ec4e2")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -36604,7 +37809,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -36613,6 +37818,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0a0f6006-46d0-4950-8536-eb4164a8deda")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -36883,7 +38102,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2N3906 PNP General Purpose Transistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -36891,6 +38110,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/2n3906-general-propose-pnp-transistor.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "95da22d8-2582-4c11-9a63-f89859c43512")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -37341,16 +38574,16 @@
 			(uuid "7eaa1c77-23c8-4d23-ab75-ff2ed65ead28")
 		)
 	)
-	(footprint "Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal"
+	(footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
 		(layer "B.Cu")
 		(uuid "ac1d9753-aaa7-4aeb-8fa9-22f1bf87e5ec")
-		(at 62.34 121.1 90)
-		(descr "Potentiometer, horizontal, Bourns 3386C, https://www.bourns.com/pdfs/3386.pdf")
-		(tags "Potentiometer horizontal Bourns 3386C")
+		(at 62.34 121.1)
+		(descr "Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf")
+		(tags "Potentiometer vertical Bourns 3296W")
 		(property "Reference" "Bias_adjust1"
-			(at -3.3 -2.68 180)
+			(at -2.54 3.3 360)
 			(layer "B.SilkS")
-			(uuid "173fce1e-6d03-4437-bd0e-6cb8ffa8cd93")
+			(uuid "7cdc1926-16ff-43ec-87df-0c9667a4bf8b")
 			(effects
 				(font
 					(size 1 1)
@@ -37360,9 +38593,9 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 0 -8.555 90)
+			(at -2.54 -3.67 360)
 			(layer "B.Fab")
-			(uuid "6bfe2b77-7ed1-47ca-9497-f984ececa87e")
+			(uuid "468c13cf-6d4c-4bfa-b00f-dd69331f5311")
 			(effects
 				(font
 					(size 1 1)
@@ -37371,11 +38604,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal"
-			(at 0 0 90)
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "6ef5f9b9-c9f4-479f-969f-89b41c5aef98")
+			(uuid "82beddca-6422-46e4-a03b-e290c8059fa4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37385,10 +38619,11 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "d5533a66-bb3a-44d0-861c-b6971717e49a")
+			(uuid "02097d1a-4809-4dbd-8ff2-ccf75a8954b9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37397,37 +38632,26 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 90)
+		(property "Description" "Trimmer potentiometer, 25 turn series 3296W"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "1dd51318-b5fc-4e76-ab94-a0c330006943")
+			(uuid "cfaa24f2-fd59-4033-86ff-750a198ef38d")
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Comments" "Use multi turn Cermet style 3296 pots "
-			(at 0 0 90)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "5846b31b-c286-4b61-8d90-abdad6c5799c")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(property "manf" ""
-			(at 0 0 90)
+			(at 0 0 0)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "06c79c72-2a8e-4e4b-9af8-ca2c733783d3")
+			(uuid "df7d77bb-a4ec-4957-b2b5-71f712c52e55")
 			(effects
 				(font
 					(size 1 1)
@@ -37437,10 +38661,25 @@
 			)
 		)
 		(property "manf#" ""
-			(at 0 0 90)
+			(at 0 0 0)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "aa88d2a2-a0fe-4bbe-89df-3eb693dce6ee")
+			(uuid "1cd36b68-b3e4-4ba2-a5bb-0d4d41ec8b7a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.thonk.co.uk/shop/25-turn-trimmer-potentiometer/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1e578e6a-c1f8-4bec-94e2-aec02c503083")
 			(effects
 				(font
 					(size 1 1)
@@ -37455,129 +38694,160 @@
 		(sheetfile "Basic_VCA.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 2.535 -7.425)
-			(end -2.535 -7.425)
+			(start -7.425 -2.54)
+			(end -7.425 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "35480f70-8246-4180-b656-d88cea68daca")
+			(uuid "14917860-1173-406f-8a62-05935fec444a")
 		)
 		(fp_line
-			(start 2.535 -7.425)
-			(end 2.535 2.345)
+			(start 2.345 -2.54)
+			(end -7.425 -2.54)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "a504c75a-8efd-4857-8c55-a109039e1cc3")
+			(uuid "db9c3a70-1837-4213-8494-f8ea002958b5")
 		)
 		(fp_line
-			(start -2.535 -7.425)
-			(end -2.535 2.345)
+			(start 2.345 -2.54)
+			(end 2.345 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "bf3fdd72-7fa2-4a4c-ae2b-3ff44ea86ef7")
+			(uuid "725037c8-3103-4e19-ae4a-9a58ade8efaa")
 		)
 		(fp_line
-			(start 2.535 2.345)
-			(end -2.535 2.345)
+			(start 2.345 2.53)
+			(end -7.425 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "7780d93c-bc0d-4147-96aa-70290bbf3a43")
+			(uuid "d234e2c3-e622-4a74-a341-ec99193d99f0")
 		)
 		(fp_line
-			(start 2.67 -7.56)
-			(end -2.67 -7.56)
+			(start -7.6 -2.7)
+			(end -7.6 2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "246aca14-e4a2-4b3f-9209-284aa900ec06")
+			(uuid "83429403-2f76-4024-bd79-66959e9b531a")
 		)
 		(fp_line
-			(start -2.67 -7.56)
-			(end -2.67 2.48)
+			(start -7.6 2.7)
+			(end 2.5 2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "a5f7a00a-810e-4c2e-b709-0133c0ad10a6")
+			(uuid "ab7baeb6-873e-4357-ac83-7b2b20f5a736")
 		)
 		(fp_line
-			(start 2.67 2.48)
-			(end 2.67 -7.56)
+			(start 2.5 -2.7)
+			(end -7.6 -2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "063aef7d-2d71-435e-9a84-04713423e196")
+			(uuid "0c4eb157-d91e-4333-b681-87606abe53cb")
 		)
 		(fp_line
-			(start -2.67 2.48)
-			(end 2.67 2.48)
+			(start 2.5 2.7)
+			(end 2.5 -2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "b328f806-df5d-44ae-8162-21ff9b5f26b4")
+			(uuid "f0122cde-60af-4da7-9295-4e6ffb961574")
 		)
 		(fp_line
-			(start 2.415 -7.305)
-			(end 2.415 2.225)
+			(start -7.305 -2.42)
+			(end -7.305 2.41)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "6b96525a-b721-4e48-9b47-6a5a7217471d")
+			(uuid "863ba237-bea6-49dc-80a3-371f4e2dad24")
 		)
 		(fp_line
-			(start -2.415 -7.305)
-			(end 2.415 -7.305)
+			(start -7.305 2.41)
+			(end 2.225 2.41)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "709df36d-8b45-45a9-986e-7719d78a3ec4")
+			(uuid "0ef9491f-eb0a-4790-9d87-9911fbedcca9")
 		)
 		(fp_line
-			(start 2.415 2.225)
-			(end -2.415 2.225)
+			(start 0.956 -0.066)
+			(end 0.955 -2.235)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "b9f02f7e-e776-463c-85ee-5f16a232185f")
+			(uuid "3ce224f8-fd7f-45e5-bcf8-00f6eff43a7e")
 		)
 		(fp_line
-			(start -2.415 2.225)
-			(end -2.415 -7.305)
+			(start 0.956 -0.066)
+			(end 0.955 -2.235)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "8491f057-5c52-45e0-ac1e-8faf03400d61")
+			(uuid "f48e538c-a65b-4368-877e-865f65a7cd23")
+		)
+		(fp_line
+			(start 2.225 -2.42)
+			(end -7.305 -2.42)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "562ef29d-2300-4f34-a917-88304a9bd526")
+		)
+		(fp_line
+			(start 2.225 2.41)
+			(end 2.225 -2.42)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "32900608-1278-44c8-8155-8359cc8c78d8")
+		)
+		(fp_circle
+			(center 0.955 -1.15)
+			(end 2.05 -1.15)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill none)
+			(layer "B.Fab")
+			(uuid "83a9a4d3-ac2b-4842-9ce6-a81fdaa93036")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2.54 90)
+			(at -3.175 -0.005 360)
 			(layer "B.Fab")
-			(uuid "f5acb8dd-45f4-4ec6-95b4-c79735edb0d8")
+			(uuid "b88fe88a-5b9d-469d-a150-013894e1a789")
 			(effects
 				(font
 					(size 1 1)
@@ -37587,7 +38857,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0 90)
+			(at 0 0)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -37595,10 +38865,10 @@
 			(net 2 "+12V")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "af6967f0-58c7-4199-a75d-c5ffb2580350")
+			(uuid "242a36d9-41ae-4e48-a749-8ccb786f369e")
 		)
 		(pad "2" thru_hole circle
-			(at 0 -2.54 90)
+			(at -2.54 0)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -37606,10 +38876,10 @@
 			(net 6 "Net-(Bias_adjust1-Pad2)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "daaf7d91-bf7e-4bc0-a7e7-d93c64cb3dd4")
+			(uuid "083fec00-cb6a-45e9-8dae-502bad9078f6")
 		)
 		(pad "3" thru_hole circle
-			(at 0 -5.08 90)
+			(at -5.08 0)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -37617,9 +38887,9 @@
 			(net 3 "-12V")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "5f38831e-0abc-43be-9aa8-b0238edcaf34")
+			(uuid "7ec18af7-661a-42f1-b95d-ad47178f765d")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3386C_Horizontal.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3296W_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -37687,7 +38957,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Ceramic disc capacitor 50V 20%"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -37695,6 +38965,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/capacitors/ceramic-disc-capacitors/test-group-2.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a077ba92-93f1-4e20-8b86-cd3683706ab2")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -37927,7 +39211,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37936,6 +39220,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6bcb1b08-2c72-4818-838d-c6c4738f3fc7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -38206,7 +39504,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Ceramic disc capacitor 50V 20%"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -38214,6 +39512,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/capacitors/ceramic-disc-capacitors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "af5e50d9-e99c-4735-9a45-1ec57b1cc206")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -38446,7 +39758,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -38455,6 +39767,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fb1552e4-11a9-4b76-8e53-faae03c880da")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -38727,7 +40053,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -38736,6 +40062,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ff376ba5-efd4-4138-ab71-c1e222a5a974")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -38950,16 +40290,16 @@
 			)
 		)
 	)
-	(footprint "Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal"
+	(footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
 		(layer "B.Cu")
 		(uuid "ca7ad35e-4806-4c9e-9936-583bd476e599")
-		(at 63.38 100.7 90)
-		(descr "Potentiometer, horizontal, Bourns 3386C, https://www.bourns.com/pdfs/3386.pdf")
-		(tags "Potentiometer horizontal Bourns 3386C")
+		(at 63.45 100.7)
+		(descr "Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf")
+		(tags "Potentiometer vertical Bourns 3296W")
 		(property "Reference" "Trim1"
-			(at 0 -8.14 90)
+			(at -2.25 -3.3 360)
 			(layer "B.SilkS")
-			(uuid "1e2127c5-354e-4a84-a6ac-0d05b4cd78a0")
+			(uuid "33248b06-fa81-451c-bb9b-8999a5453d74")
 			(effects
 				(font
 					(size 1 1)
@@ -38969,9 +40309,9 @@
 			)
 		)
 		(property "Value" "2k"
-			(at 0 -8.555 90)
+			(at -2.54 -3.67 360)
 			(layer "B.Fab")
-			(uuid "bab9d30a-38e5-472b-b5fc-c9ae22b5078a")
+			(uuid "ffc5e436-6a04-4d51-bf38-43f5d5ff362d")
 			(effects
 				(font
 					(size 1 1)
@@ -38980,60 +40320,54 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal"
-			(at 0 0 90)
-			(layer "F.Fab")
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
 			(hide yes)
-			(uuid "18bc6cb2-2359-4f18-9137-8637af99843a")
+			(uuid "2e1ccd47-f5df-4049-b8b4-1267408ebd34")
 			(effects
 				(font
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "34cf77bd-6568-4fa2-8316-75c4c119abda")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3ce76f29-6259-484b-a010-3c5805a0324d")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Comments" "Use multi turn Cermet style 3296 pots "
-			(at 143.6 102.24 90)
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "7a206b43-4fee-4c83-bf57-863d22e3b376")
+			(uuid "4c9d1615-795b-462c-b766-d3559716f340")
 			(effects
 				(font
-					(size 1 1)
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Trimmer potentiometer, 25 turn series 3296W"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "54b72120-9870-4e59-9d4b-2408009b5608")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(property "manf" ""
-			(at 143.6 102.24 90)
+			(at 0 0 0)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "2d1d25f4-f895-4efd-b70b-ac36a1f3da96")
+			(uuid "4241b642-a55e-4c5e-8bfb-1c3c8a26e9df")
 			(effects
 				(font
 					(size 1 1)
@@ -39043,10 +40377,25 @@
 			)
 		)
 		(property "manf#" ""
-			(at 143.6 102.24 90)
+			(at 0 0 0)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "9f2a50a6-47b6-4681-aa51-eaf878ad97fe")
+			(uuid "ab94128b-b378-4984-9b0d-26f8b90d1df1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.thonk.co.uk/shop/25-turn-trimmer-potentiometer/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "04203f34-0500-44c7-b69d-3fe7e7d1085c")
 			(effects
 				(font
 					(size 1 1)
@@ -39061,129 +40410,160 @@
 		(sheetfile "Basic_VCA.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start -2.535 -7.425)
-			(end 2.535 -7.425)
+			(start -7.425 -2.54)
+			(end -7.425 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "63950b27-d974-47b0-a7ec-e4a1c60f1432")
+			(uuid "73952231-50fe-4a20-8408-9cb9cf9aba02")
 		)
 		(fp_line
-			(start 2.535 2.345)
-			(end 2.535 -7.425)
+			(start 2.345 -2.54)
+			(end -7.425 -2.54)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "8d2579ed-d038-4cc3-84f9-95e9341cf9b8")
+			(uuid "8759bcdf-6a46-455c-ada4-854948fb8d60")
 		)
 		(fp_line
-			(start -2.535 2.345)
-			(end -2.535 -7.425)
+			(start 2.345 -2.54)
+			(end 2.345 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "3e5c9718-ebc3-4317-93d5-c9d3716a43b3")
+			(uuid "5aed41e0-e451-425e-a34a-2ad3ae39d04d")
 		)
 		(fp_line
-			(start -2.535 2.345)
-			(end 2.535 2.345)
+			(start 2.345 2.53)
+			(end -7.425 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "46bd752a-b0e7-4448-8c46-621d5f862316")
+			(uuid "720c5810-6912-4145-88d0-cab6ecbe85f3")
 		)
 		(fp_line
-			(start 2.67 -7.56)
-			(end 2.67 2.48)
+			(start -7.6 -2.7)
+			(end -7.6 2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "93dc8324-28ce-4f18-b09a-e7866bd36961")
+			(uuid "8bdb3ea9-4bf2-4eec-990e-13d148974fdd")
 		)
 		(fp_line
-			(start -2.67 -7.56)
-			(end 2.67 -7.56)
+			(start -7.6 2.7)
+			(end 2.5 2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "8b315cd0-0b6f-48c4-8fd2-66f9179d58ef")
+			(uuid "c5b3f75a-a936-49c1-be57-8a8dd0e9ddba")
 		)
 		(fp_line
-			(start 2.67 2.48)
-			(end -2.67 2.48)
+			(start 2.5 -2.7)
+			(end -7.6 -2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "e12f8aad-ee9c-4ee6-87dc-c60e3454d53b")
+			(uuid "9dabb373-3398-4ea6-93e1-7f0703c0629d")
 		)
 		(fp_line
-			(start -2.67 2.48)
-			(end -2.67 -7.56)
+			(start 2.5 2.7)
+			(end 2.5 -2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "c6691655-bdb9-41b0-aec3-04e2ea2d4661")
+			(uuid "76053abb-f240-45fc-9448-ed60448bca17")
 		)
 		(fp_line
-			(start 2.415 -7.305)
-			(end -2.415 -7.305)
+			(start -7.305 -2.42)
+			(end -7.305 2.41)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "34dbf7d5-b176-4984-9e05-a21b9ff020a2")
+			(uuid "910c527f-1253-4e3e-80eb-b46f931e3214")
 		)
 		(fp_line
-			(start -2.415 -7.305)
-			(end -2.415 2.225)
+			(start -7.305 2.41)
+			(end 2.225 2.41)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "a7bc0b22-f261-45a4-b1ed-1dbbd63a9a3e")
+			(uuid "d3426fe2-abcf-4df8-86fd-383654d8cf9f")
 		)
 		(fp_line
-			(start 2.415 2.225)
-			(end 2.415 -7.305)
+			(start 0.956 -0.066)
+			(end 0.955 -2.235)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "e9a6630e-ed70-48d6-987e-23ea94a9523b")
+			(uuid "57922dd8-226d-4f09-9e8a-21ecef28b454")
 		)
 		(fp_line
-			(start -2.415 2.225)
-			(end 2.415 2.225)
+			(start 0.956 -0.066)
+			(end 0.955 -2.235)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "7de0c852-b76d-4438-8bb1-aba315aa182e")
+			(uuid "b2459499-ed9b-4843-9ca7-8782d97f9224")
+		)
+		(fp_line
+			(start 2.225 -2.42)
+			(end -7.305 -2.42)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "099a1f63-8698-4fb1-9162-e461b25a429d")
+		)
+		(fp_line
+			(start 2.225 2.41)
+			(end 2.225 -2.42)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "2e7c3e1a-bc5c-4082-ab4e-8e32ad4f93da")
+		)
+		(fp_circle
+			(center 0.955 -1.15)
+			(end 2.05 -1.15)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill none)
+			(layer "B.Fab")
+			(uuid "cdb3e8f3-2d37-43af-992c-ff4bded29239")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2.54 90)
+			(at -3.175 -0.005 360)
 			(layer "B.Fab")
-			(uuid "3104283d-0366-4bf3-ae22-377679f97071")
+			(uuid "176950f3-6c10-4018-b701-5d988ddd9ca6")
 			(effects
 				(font
 					(size 1 1)
@@ -39193,7 +40573,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0 90)
+			(at 0 0)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -39201,10 +40581,10 @@
 			(net 14 "/In1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "09aa0da2-334a-4f03-99bd-f05172743ac0")
+			(uuid "113131bc-0980-4648-bd21-472319a29870")
 		)
 		(pad "2" thru_hole circle
-			(at 0 -2.54 90)
+			(at -2.54 0)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -39212,10 +40592,10 @@
 			(net 14 "/In1")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "25e24378-3fef-4b04-bb27-149958d5a49f")
+			(uuid "c22d0852-d08b-451c-82f7-d353211193b8")
 		)
 		(pad "3" thru_hole circle
-			(at 0 -5.08 90)
+			(at -5.08 0)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -39223,9 +40603,9 @@
 			(net 69 "Net-(R7-Pad1)")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "0677db5e-b1c3-41b3-bee9-ba1b5181cc73")
+			(uuid "b1cbe71b-42ba-475d-9491-57a4692756ab")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3386C_Horizontal.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3296W_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -39295,7 +40675,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39304,6 +40684,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fd972ea1-be0d-47b8-b184-8f5a87304278")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -39574,7 +40968,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Eurorack 10 pin shrouded power header IDC"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -39582,6 +40976,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.thonk.co.uk/shop/eurorack-diy-essentials/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7d57a7f1-fdb3-4f10-927f-8c67437fbcf2")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -40105,7 +41513,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -40114,6 +41522,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a5bd9c68-236f-448c-90d8-5ddf2ceb30e2")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -40384,7 +41806,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10uF Electrolytic capacitor, 2.0mm pitch, 5mm diameter"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -40392,6 +41814,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/capacitors/electrolytic-capacitors.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cfc5bbbb-8539-4375-8096-573eb72c2691")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -41747,7 +43183,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -41756,6 +43192,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "328490f4-6bba-4659-aa09-7eaebf9b62d4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -42028,7 +43478,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -42037,6 +43487,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "866988c7-37e9-43fd-b235-07b0517abf2c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -42309,7 +43773,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -42318,6 +43782,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4d40b007-e81b-4f30-a084-2f948cd09108")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -42588,7 +44066,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Ceramic disc capacitor 50V 20%"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -42596,6 +44074,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/capacitors/ceramic-disc-capacitors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e0597eca-bfb1-4d1f-9f9a-eb4443ab8b6b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -42826,7 +44318,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Quad Op-Amp"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -42834,6 +44326,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "manf" "Texas Instrument"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0dc916e8-9b26-4131-b090-0042637fe81d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "manf#" "TL074CN"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7d75928b-9000-459f-aa2d-46f00746a986")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.thonk.co.uk/shop/eurorack-diy-essentials/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6b218d4b-66ff-476e-bb62-70c47dc23b0c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -43249,16 +44783,16 @@
 			)
 		)
 	)
-	(footprint "Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal"
+	(footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
 		(layer "B.Cu")
 		(uuid "dcdccc61-8789-4a04-9a7c-c6b96f444465")
-		(at 77.26 80.5 -90)
-		(descr "Potentiometer, horizontal, Bourns 3386C, https://www.bourns.com/pdfs/3386.pdf")
-		(tags "Potentiometer horizontal Bourns 3386C")
+		(at 77.16 80.5 180)
+		(descr "Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf")
+		(tags "Potentiometer vertical Bourns 3296W")
 		(property "Reference" "Trim4"
-			(at 0 3.16 90)
+			(at 3.06 0 90)
 			(layer "B.SilkS")
-			(uuid "31348605-33b1-4415-b697-8ddc49da32e0")
+			(uuid "c3ffd892-4b78-4738-88d4-8dbd70ff0072")
 			(effects
 				(font
 					(size 1 1)
@@ -43268,9 +44802,9 @@
 			)
 		)
 		(property "Value" "2k"
-			(at 0 -8.555 90)
+			(at -2.54 -3.67 360)
 			(layer "B.Fab")
-			(uuid "6fb7a4c9-7595-4d79-86b5-4551a9bab92b")
+			(uuid "122dfbd2-108f-4027-95a2-6cbefff9f973")
 			(effects
 				(font
 					(size 1 1)
@@ -43279,11 +44813,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal"
-			(at 0 0 90)
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
+			(at 0 0 0)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "14429253-2212-4b22-8067-b3c5939a695f")
+			(uuid "a817e1fe-fefa-42cf-8208-9a111689937b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43293,10 +44828,11 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 0)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "9e963a2f-4df8-4cef-8dfb-d117c31cb68e")
+			(uuid "e6850682-ebde-4709-a942-e45f3c46046b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43305,37 +44841,26 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 90)
+		(property "Description" "Trimmer potentiometer, 25 turn series 3296W"
+			(at 0 0 0)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "463cb170-d880-4f84-a4d5-cb4cf6eab7de")
+			(uuid "bb5444f4-d9bc-4089-9f92-828ae5ca6d14")
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Comments" "Use multi turn Cermet style 3296 pots "
-			(at 0 0 90)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "f33f4332-10e1-4e94-a380-0b3b917f2695")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(property "manf" ""
-			(at 0 0 90)
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "e0b49ca3-c2b5-4420-a009-429525c62830")
+			(uuid "c951c3d3-bac0-4774-b6ae-d37095702c22")
 			(effects
 				(font
 					(size 1 1)
@@ -43345,10 +44870,25 @@
 			)
 		)
 		(property "manf#" ""
-			(at 0 0 90)
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "fde0046d-2f40-4ad5-b8b6-3e564266230a")
+			(uuid "10b0e466-9e1d-4021-b812-904609da1eed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.thonk.co.uk/shop/25-turn-trimmer-potentiometer/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ef68bfcf-51d0-4641-9554-661d6370ce13")
 			(effects
 				(font
 					(size 1 1)
@@ -43363,129 +44903,160 @@
 		(sheetfile "VCA_4.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 2.535 2.345)
-			(end -2.535 2.345)
+			(start 2.345 2.53)
+			(end -7.425 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "db82eaa4-ff2d-4766-bb45-effd2046c902")
+			(uuid "0bee20e9-cb57-4690-bb8b-d90f634da2c2")
 		)
 		(fp_line
-			(start -2.535 -7.425)
-			(end -2.535 2.345)
+			(start 2.345 -2.54)
+			(end 2.345 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "a627bb3e-3f87-4578-a400-4e7db74c0912")
+			(uuid "b6d62987-9a99-4a54-9a13-a8c267f1f40e")
 		)
 		(fp_line
-			(start 2.535 -7.425)
-			(end 2.535 2.345)
+			(start 2.345 -2.54)
+			(end -7.425 -2.54)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "a1f64b5d-1162-4f90-8a25-990cf80ebb06")
+			(uuid "96669380-4331-423e-8a01-db2c8fcddb8e")
 		)
 		(fp_line
-			(start 2.535 -7.425)
-			(end -2.535 -7.425)
+			(start -7.425 -2.54)
+			(end -7.425 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "ea2758ea-27b2-460f-80a3-de75ca7ca168")
+			(uuid "1da28536-478f-407c-96b7-82cc0b7e993c")
 		)
 		(fp_line
-			(start -2.67 2.48)
-			(end 2.67 2.48)
+			(start 2.5 2.7)
+			(end 2.5 -2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "c111fc84-0dee-4f4f-a984-68f2c201feb2")
+			(uuid "9fe5b490-7441-47d6-90a7-eee233da1c28")
 		)
 		(fp_line
-			(start 2.67 2.48)
-			(end 2.67 -7.56)
+			(start 2.5 -2.7)
+			(end -7.6 -2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "b74ce244-0f12-475e-8530-9a02c5258278")
+			(uuid "99e3f47f-3a60-4786-a266-06faa8343609")
 		)
 		(fp_line
-			(start -2.67 -7.56)
-			(end -2.67 2.48)
+			(start -7.6 2.7)
+			(end 2.5 2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "25bad4fd-bc57-4fe2-9d3f-19e4047401a4")
+			(uuid "201fefe3-9858-4163-afbe-d7445f794353")
 		)
 		(fp_line
-			(start 2.67 -7.56)
-			(end -2.67 -7.56)
+			(start -7.6 -2.7)
+			(end -7.6 2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "18acdd32-648a-425f-b19c-da40ae6d3c46")
+			(uuid "6e2af0c7-a71d-4843-9d92-3336f4684d17")
 		)
 		(fp_line
-			(start -2.415 2.225)
-			(end -2.415 -7.305)
+			(start 2.225 2.41)
+			(end 2.225 -2.42)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "354afe80-0814-44a7-a874-2d0172d87ccf")
+			(uuid "31d0b589-877d-40bc-b101-1475d047f712")
 		)
 		(fp_line
-			(start 2.415 2.225)
-			(end -2.415 2.225)
+			(start 2.225 -2.42)
+			(end -7.305 -2.42)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "98d7a285-2068-4c4b-a983-187ae6345d18")
+			(uuid "5ba6310c-b9ed-4420-b72c-f161d3b39568")
 		)
 		(fp_line
-			(start -2.415 -7.305)
-			(end 2.415 -7.305)
+			(start 0.956 -0.066)
+			(end 0.955 -2.235)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "6408d3d1-e553-4801-8b7b-f929c6b01738")
+			(uuid "2e4893ae-053a-4e52-a406-6c510c995379")
 		)
 		(fp_line
-			(start 2.415 -7.305)
-			(end 2.415 2.225)
+			(start 0.956 -0.066)
+			(end 0.955 -2.235)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "e9cf541f-dbae-44fc-a870-b9419456d53d")
+			(uuid "b8fe59ca-00b0-47e1-a629-d6d20175c0d3")
+		)
+		(fp_line
+			(start -7.305 2.41)
+			(end 2.225 2.41)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "9d53cabd-66d5-443a-b301-1ebe8a946724")
+		)
+		(fp_line
+			(start -7.305 -2.42)
+			(end -7.305 2.41)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "da3b151e-43fe-4e40-bf7e-89c34ff8466b")
+		)
+		(fp_circle
+			(center 0.955 -1.15)
+			(end 2.05 -1.15)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill none)
+			(layer "B.Fab")
+			(uuid "ecf144a1-c9a1-454d-bd5b-c805605fbb2a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2.54 90)
+			(at -3.175 -0.005 360)
 			(layer "B.Fab")
-			(uuid "b0cc9d61-d78b-4dd9-bae3-efc921ff07c7")
+			(uuid "43467daf-d189-4df9-b921-0bcbf8c8a24d")
 			(effects
 				(font
 					(size 1 1)
@@ -43495,7 +45066,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0 270)
+			(at 0 0 180)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -43503,10 +45074,10 @@
 			(net 49 "/VCA_4/In4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "54dfd44e-6bd2-4dd8-a4e8-cf4d1c9c7122")
+			(uuid "82a06c00-5d59-4a78-b544-272463e6957b")
 		)
 		(pad "2" thru_hole circle
-			(at 0 -2.54 270)
+			(at -2.54 0 180)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -43514,10 +45085,10 @@
 			(net 49 "/VCA_4/In4")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "56add1c9-05d9-4b22-bc90-4aaa9e9d8ed1")
+			(uuid "f2ccff1d-f279-4e87-9dd4-590120f84297")
 		)
 		(pad "3" thru_hole circle
-			(at 0 -5.08 270)
+			(at -5.08 0 180)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -43525,9 +45096,9 @@
 			(net 84 "Net-(R67-Pad1)")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "2e626cf5-5582-4970-b996-1399730d9b24")
+			(uuid "97e74685-4b3f-47bb-bcaf-fcb53c1b60cf")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3386C_Horizontal.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3296W_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -43595,7 +45166,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Ceramic disc capacitor 50V 20%"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -43603,6 +45174,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/capacitors/ceramic-disc-capacitors/test-group-2.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "01e71213-eee3-43c7-b482-4bb7abc6edce")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -43832,7 +45417,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.54mm pitch pin header vertical 1x8pos"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -43842,19 +45427,6 @@
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
-			)
-		)
-		(property "Comments" "Regular pin header"
-			(at 314.4 153.4 0)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "0e6d0855-0590-40e6-b039-b90470d9e5ca")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
@@ -44180,7 +45752,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Dual Transconductance Amplifiers"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -44211,6 +45783,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "481ed36f-4d1a-43f1-aac4-8095d92a00d7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://eu.mouser.com/c/semiconductors/amplifier-ics/transconductance-amplifiers/?series=LM13700"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "28c765d0-36b4-40eb-a462-9e3cdc8ef12e")
 			(effects
 				(font
 					(size 1 1)
@@ -44586,7 +46172,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2N3904 NPN General Purpose Transistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -44594,6 +46180,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/2n3904-npn-general-propose-transistor.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3c5a6def-d234-4a8b-8af0-b3893f67f764")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -44765,16 +46365,16 @@
 			)
 		)
 	)
-	(footprint "Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal"
+	(footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
 		(layer "B.Cu")
 		(uuid "ef98e8bf-ddc0-4ac0-8b11-777ec7935554")
-		(at 67.1 54.53 180)
-		(descr "Potentiometer, horizontal, Bourns 3386C, https://www.bourns.com/pdfs/3386.pdf")
-		(tags "Potentiometer horizontal Bourns 3386C")
+		(at 67.1 54.26 90)
+		(descr "Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf")
+		(tags "Potentiometer vertical Bourns 3296W")
 		(property "Reference" "Bias_adjust3"
-			(at 0 3.475 0)
+			(at 3.36 0 180)
 			(layer "B.SilkS")
-			(uuid "1cd07e19-15c3-40d5-a231-13e0ed954a8f")
+			(uuid "b47c9e48-11e8-4c64-b8cf-845e27ed0995")
 			(effects
 				(font
 					(size 1 1)
@@ -44784,9 +46384,9 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 0 -8.555 0)
+			(at -2.54 -3.67 90)
 			(layer "B.Fab")
-			(uuid "272fcaea-79d0-49b9-b63a-9f78e980e1fc")
+			(uuid "685740f4-8b77-4680-b31d-f6644507e350")
 			(effects
 				(font
 					(size 1 1)
@@ -44795,11 +46395,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal"
-			(at 0 0 0)
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
+			(at 0 0 -90)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "73eee6d3-dd29-4f10-9fc1-7063cb6629ee")
+			(uuid "4294e212-1e7d-4cc7-a645-3ddf04369405")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44809,10 +46410,11 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 -90)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "d0843f8d-c663-46a4-a37d-422b4420384e")
+			(uuid "a230c710-0434-427c-bfaa-61d2b6956653")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44821,37 +46423,26 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 0)
+		(property "Description" "Trimmer potentiometer, 25 turn series 3296W"
+			(at 0 0 -90)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "ce2e407f-791f-4a68-9476-4cf329530754")
+			(uuid "cfca7230-f165-4e79-a830-b63ec024c48d")
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Comments" "Use multi turn Cermet style 3296 pots "
-			(at 0 0 0)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "73668483-f5ae-42fb-b656-fa27c5ea9554")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(property "manf" ""
-			(at 0 0 0)
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c3a8944c-51f9-4e67-a72e-4b196af8b080")
+			(uuid "8f3132ec-1074-4dc7-a774-685eeefcdcc0")
 			(effects
 				(font
 					(size 1 1)
@@ -44861,10 +46452,25 @@
 			)
 		)
 		(property "manf#" ""
-			(at 0 0 0)
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "9db8dded-e119-4319-8cc3-ebda626d38f2")
+			(uuid "0babc056-4d49-45b1-b4be-bc6d89c1f680")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.thonk.co.uk/shop/25-turn-trimmer-potentiometer/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "af531e7b-8457-48d0-a038-bc108b103e29")
 			(effects
 				(font
 					(size 1 1)
@@ -44879,129 +46485,160 @@
 		(sheetfile "VCA_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 2.535 2.345)
-			(end -2.535 2.345)
+			(start 2.345 -2.54)
+			(end -7.425 -2.54)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "d67f8b1a-c252-4b65-913a-29bc790409a3")
+			(uuid "5903a3af-f6bd-465a-a076-8f8600c84040")
 		)
 		(fp_line
-			(start 2.535 -7.425)
-			(end 2.535 2.345)
+			(start 2.345 -2.54)
+			(end 2.345 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "3683eb4d-7caa-42db-a33a-5e2cb2df8602")
+			(uuid "c315618f-efba-435d-973a-e862e2472fe9")
 		)
 		(fp_line
-			(start 2.535 -7.425)
-			(end -2.535 -7.425)
+			(start -7.425 -2.54)
+			(end -7.425 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "d4dd8e1a-a4ae-4ef8-ae42-6e2be3113b86")
+			(uuid "9c929a95-dd90-4962-b74a-6dd1bfe59aee")
 		)
 		(fp_line
-			(start -2.535 -7.425)
-			(end -2.535 2.345)
+			(start 2.345 2.53)
+			(end -7.425 2.53)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "147b2fc9-f7e2-495e-a827-7900c6788bd9")
+			(uuid "4725b240-5608-4532-af9d-661dcecb8fd9")
 		)
 		(fp_line
-			(start 2.67 2.48)
-			(end 2.67 -7.56)
+			(start 2.5 -2.7)
+			(end -7.6 -2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "baca742b-6a8d-403b-8f57-960696f66d9b")
+			(uuid "dfde98d0-b490-4e7e-9e6f-dce38a7cef5b")
 		)
 		(fp_line
-			(start 2.67 -7.56)
-			(end -2.67 -7.56)
+			(start -7.6 -2.7)
+			(end -7.6 2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "630b9db8-2eda-414f-a8eb-5477b8eeb370")
+			(uuid "b030dbac-ca60-4420-91b0-ac84459babdd")
 		)
 		(fp_line
-			(start -2.67 2.48)
-			(end 2.67 2.48)
+			(start 2.5 2.7)
+			(end 2.5 -2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "7403b787-6543-47ee-933c-a8a99efc067a")
+			(uuid "1be7a97b-b617-4d92-9340-33af05b31b84")
 		)
 		(fp_line
-			(start -2.67 -7.56)
-			(end -2.67 2.48)
+			(start -7.6 2.7)
+			(end 2.5 2.7)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "4ea6dfd6-3091-471d-9aca-b2590cca66c5")
+			(uuid "bd5096eb-1370-4481-b810-f8c5388d714a")
 		)
 		(fp_line
-			(start 2.415 2.225)
-			(end -2.415 2.225)
+			(start 2.225 -2.42)
+			(end -7.305 -2.42)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "2bbc3c31-f7cd-4362-9b2d-deea4de4a535")
+			(uuid "37903728-70e0-4bd5-9881-d522b91dd943")
 		)
 		(fp_line
-			(start 2.415 -7.305)
-			(end 2.415 2.225)
+			(start -7.305 -2.42)
+			(end -7.305 2.41)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "53da0954-7cc2-426a-99a1-1fc95b70e48c")
+			(uuid "bc31e896-d8e2-45b9-b1cd-6c36062e3c42")
 		)
 		(fp_line
-			(start -2.415 2.225)
-			(end -2.415 -7.305)
+			(start 0.956 -0.066)
+			(end 0.955 -2.235)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "ef070314-b9a8-4dcc-b0a1-96f56721004b")
+			(uuid "3caa8d17-902d-4dd2-ac6b-e0da1466323c")
 		)
 		(fp_line
-			(start -2.415 -7.305)
-			(end 2.415 -7.305)
+			(start 0.956 -0.066)
+			(end 0.955 -2.235)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "98631bdf-2147-4c40-92e3-47755bc3316d")
+			(uuid "83e083d5-c5c6-4601-abd4-24ddde92d74e")
+		)
+		(fp_line
+			(start 2.225 2.41)
+			(end 2.225 -2.42)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "a4e65be1-0380-4cee-ac74-f4759b0efc66")
+		)
+		(fp_line
+			(start -7.305 2.41)
+			(end 2.225 2.41)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "1ad8324c-09f0-490f-b4e5-aa5d2caaf8a5")
+		)
+		(fp_circle
+			(center 0.955 -1.15)
+			(end 2.05 -1.15)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill none)
+			(layer "B.Fab")
+			(uuid "f669be21-5e5f-4519-851d-b8b89610ff90")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2.54 0)
+			(at -3.175 -0.005 90)
 			(layer "B.Fab")
-			(uuid "c51f26ee-2f33-4656-817a-f5a7bc9e48fa")
+			(uuid "ef2a8c6e-dc51-4ec7-8786-e60545bf04dd")
 			(effects
 				(font
 					(size 1 1)
@@ -45011,7 +46648,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0 180)
+			(at 0 0 90)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -45019,10 +46656,10 @@
 			(net 2 "+12V")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "3df247ca-05d3-4483-91e5-6af57463ada1")
+			(uuid "e12c05f9-fa28-4acc-97e5-952c305b5920")
 		)
 		(pad "2" thru_hole circle
-			(at 0 -2.54 180)
+			(at -2.54 0 90)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -45030,10 +46667,10 @@
 			(net 8 "Net-(Bias_adjust3-Pad2)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "67ebe03e-fd28-4c05-8db1-a28cf9ee714a")
+			(uuid "35bc158e-a438-4464-b793-c8d40a9d3378")
 		)
 		(pad "3" thru_hole circle
-			(at 0 -5.08 180)
+			(at -5.08 0 90)
 			(size 1.44 1.44)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -45041,9 +46678,9 @@
 			(net 3 "-12V")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "1868f483-4909-4f56-939c-8feda26cbfb3")
+			(uuid "69048d8c-ee67-41d8-9c99-df13204dc5d1")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3386C_Horizontal.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3296W_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -45111,7 +46748,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2N3906 PNP General Purpose Transistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -45119,6 +46756,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/2n3906-general-propose-pnp-transistor.html"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8e5dbd7c-7049-4f36-a801-c113163bf422")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -45348,7 +46999,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -45357,6 +47008,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8416ee67-84ae-4012-98ba-ad50219e66e9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -45626,7 +47291,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.54mm pitch pin header vertical 1x8pos"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -45636,19 +47301,6 @@
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
-			)
-		)
-		(property "Comments" "Regular pin header"
-			(at 240.2 153.4 0)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "7af8782c-a602-46cb-aa67-0ed0fc8aea1b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
@@ -45976,7 +47628,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.5mm*6.8mm 1/4W 1% Metal film resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -45985,6 +47637,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/test-group-2.html"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9e869037-e782-4daf-9266-4a553dc8bc2c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -46255,7 +47921,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2N3906 PNP General Purpose Transistor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -46263,6 +47929,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Links" "https://www.taydaelectronics.com/2n3906-general-propose-pnp-transistor.html"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0b683720-dc0c-4031-9988-8a6ef961d830")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
